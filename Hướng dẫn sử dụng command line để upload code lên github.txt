@@ -1,0 +1,21 @@
+Hướng dẫn upload code lên github bằng command line
+
+- Tải git và cài đặt trên máy tính. Link tải git: https://git-scm.com/downloads.
+- Lên github.com và tạo mới repository rồi copy đường link của repository vừa tạo.
+- Mở cmd trên (Windows) hoặc terminal trên (Mac/Linux) và cd tới thư mục cần upload.
+
+-> sử dụng command line đẻ upload code lên github.
+
+* Đối với folder lần đầu tiên upload code lên github (6 bước)
+	- Bước 1: git init
+	- Bước 2: git add --all
+	- Bước 3: git commit -m "Commit note"
+	- Bước 4: git branch -M main
+	- Bước 5: git remote add origin + link repository
+	- Bước 6: git push -u origin main
+* Đối với folder upload code từ lần thứ 2 trở đi (3 bước)
+	- Bước 1: git add .
+	- Bước 2: git commit "commit note"
+	- Bước 3: git push
+
+=> Đây là tất cả các bước để có thể upload code lên github.
