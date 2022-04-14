@@ -1,2 +1,0 @@
-H:\code\Github_Upload_Code\C#\Windows Form Application\Store_Manager\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.exe
-H:\code\Github_Upload_Code\C#\Windows Form Application\Store_Manager\Shop_Manager\Shop_Manager\obj\Debug\Shop_Manager.pdb
