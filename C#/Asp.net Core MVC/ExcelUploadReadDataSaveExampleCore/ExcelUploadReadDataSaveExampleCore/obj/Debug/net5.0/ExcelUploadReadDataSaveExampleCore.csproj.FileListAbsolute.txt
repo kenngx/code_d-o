@@ -1,0 +1,163 @@
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\appsettings.Development.json
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\appsettings.json
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.exe
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.deps.json
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.runtimeconfig.json
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.runtimeconfig.dev.json
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\ref\ExcelUploadReadDataSaveExampleCore.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.pdb
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.Views.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.Views.pdb
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\EFCore.BulkExtensions.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\EPPlus.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Humanizer.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\NetTopologySuite.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\NetTopologySuite.IO.SqlServerBytes.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\System.Runtime.Caching.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.csproj.AssemblyReference.cache
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.GeneratedMSBuildEditorConfig.editorconfig
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.AssemblyInfoInputs.cache
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.AssemblyInfo.cs
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.csproj.CoreCompileInputs.cache
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.MvcApplicationPartsAssemblyInfo.cache
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.RazorAssemblyInfo.cache
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.RazorAssemblyInfo.cs
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\staticwebassets\ExcelUploadReadDataSaveExampleCore.StaticWebAssets.Manifest.cache
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\staticwebassets\ExcelUploadReadDataSaveExampleCore.StaticWebAssets.xml
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\scopedcss\bundle\ExcelUploadReadDataSaveExampleCore.styles.css
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.TagHelpers.input.cache
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.TagHelpers.output.cache
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.RazorCoreGenerate.cache
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.RazorTargetAssemblyInfo.cache
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.RazorTargetAssemblyInfo.cs
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.Views.pdb
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.csproj.CopyComplete
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ref\ExcelUploadReadDataSaveExampleCore.dll
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.pdb
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.genruntimeconfig.cache
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\libman.json
+H:\NN\Core\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\Razor\Views\Students\Index.cshtml.g.cs
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\appsettings.json
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\libman.json
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.StaticWebAssets.xml
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.exe
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.deps.json
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.runtimeconfig.json
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.runtimeconfig.dev.json
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\ref\ExcelUploadReadDataSaveExampleCore.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.pdb
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.Views.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.Views.pdb
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\EFCore.BulkExtensions.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\EPPlus.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\NetTopologySuite.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\NetTopologySuite.IO.SqlServerBytes.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.csproj.AssemblyReference.cache
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.AssemblyInfoInputs.cache
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.AssemblyInfo.cs
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.csproj.CoreCompileInputs.cache
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.RazorAssemblyInfo.cache
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.RazorAssemblyInfo.cs
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\scopedcss\bundle\ExcelUploadReadDataSaveExampleCore.styles.css
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\staticwebassets\ExcelUploadReadDataSaveExampleCore.StaticWebAssets.Manifest.cache
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.TagHelpers.input.cache
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.TagHelpers.output.cache
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.RazorCoreGenerate.cache
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\Razor\Views\Students\Index.cshtml.g.cs
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.RazorTargetAssemblyInfo.cache
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.RazorTargetAssemblyInfo.cs
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.Views.pdb
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.csproj.CopyComplete
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ref\ExcelUploadReadDataSaveExampleCore.dll
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.pdb
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\ExcelUploadReadDataSaveExampleCore.genruntimeconfig.cache
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\Razor\Views\_LayoutPage1.cshtml.g.cs
+C:\Users\ngxtu\OneDrive\Máy tính\ExcelUploadReadDataSaveExampleCore\ExcelUploadReadDataSaveExampleCore\obj\Debug\net5.0\Razor\Views\Search\Index.cshtml.g.cs
