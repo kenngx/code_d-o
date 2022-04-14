@@ -1,0 +1,17 @@
+H:\code\Github_Upload_Code\C#\Windows Form Application\FTPUpload\FTPUpload\bin\Debug\net6.0-windows\FTPUpload.exe
+H:\code\Github_Upload_Code\C#\Windows Form Application\FTPUpload\FTPUpload\bin\Debug\net6.0-windows\FTPUpload.deps.json
+H:\code\Github_Upload_Code\C#\Windows Form Application\FTPUpload\FTPUpload\bin\Debug\net6.0-windows\FTPUpload.runtimeconfig.json
+H:\code\Github_Upload_Code\C#\Windows Form Application\FTPUpload\FTPUpload\bin\Debug\net6.0-windows\FTPUpload.dll
+H:\code\Github_Upload_Code\C#\Windows Form Application\FTPUpload\FTPUpload\bin\Debug\net6.0-windows\FTPUpload.pdb
+H:\code\Github_Upload_Code\C#\Windows Form Application\FTPUpload\FTPUpload\obj\Debug\net6.0-windows\FTPUpload.csproj.AssemblyReference.cache
+H:\code\Github_Upload_Code\C#\Windows Form Application\FTPUpload\FTPUpload\obj\Debug\net6.0-windows\FTPUpload.Form1.resources
+H:\code\Github_Upload_Code\C#\Windows Form Application\FTPUpload\FTPUpload\obj\Debug\net6.0-windows\FTPUpload.csproj.GenerateResource.cache
+H:\code\Github_Upload_Code\C#\Windows Form Application\FTPUpload\FTPUpload\obj\Debug\net6.0-windows\FTPUpload.GeneratedMSBuildEditorConfig.editorconfig
+H:\code\Github_Upload_Code\C#\Windows Form Application\FTPUpload\FTPUpload\obj\Debug\net6.0-windows\FTPUpload.AssemblyInfoInputs.cache
+H:\code\Github_Upload_Code\C#\Windows Form Application\FTPUpload\FTPUpload\obj\Debug\net6.0-windows\FTPUpload.AssemblyInfo.cs
+H:\code\Github_Upload_Code\C#\Windows Form Application\FTPUpload\FTPUpload\obj\Debug\net6.0-windows\FTPUpload.csproj.CoreCompileInputs.cache
+H:\code\Github_Upload_Code\C#\Windows Form Application\FTPUpload\FTPUpload\obj\Debug\net6.0-windows\FTPUpload.dll
+H:\code\Github_Upload_Code\C#\Windows Form Application\FTPUpload\FTPUpload\obj\Debug\net6.0-windows\refint\FTPUpload.dll
+H:\code\Github_Upload_Code\C#\Windows Form Application\FTPUpload\FTPUpload\obj\Debug\net6.0-windows\FTPUpload.pdb
+H:\code\Github_Upload_Code\C#\Windows Form Application\FTPUpload\FTPUpload\obj\Debug\net6.0-windows\FTPUpload.genruntimeconfig.cache
+H:\code\Github_Upload_Code\C#\Windows Form Application\FTPUpload\FTPUpload\obj\Debug\net6.0-windows\ref\FTPUpload.dll
