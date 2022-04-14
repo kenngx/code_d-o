@@ -1,0 +1,89 @@
+.g_p-section {
+	padding-top: 60px;
+	padding-bottom: 70px;
+}
+.row.g_p-item-container {
+	position: relative;
+}
+.g_p-item {
+	padding: 15px;
+	position: relative;
+}
+.g_p-item:focus {
+	outline: none;
+}
+.g_p-item > div {
+	position: relative;
+}
+.g_p-item img {
+	width: 100%;
+}
+.g_p-item .overlay {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background: rgba(198, 149, 51, .8);
+	opacity: 0;
+	transform: scale(.8);
+	transition: all .3s ease-in-out;
+}
+.g_p-item:hover .overlay {
+	opacity: 1;
+	transform: none;
+}
+.g_p-item .overlay:before, .g_p-item .overlay:after {
+	width: 30px;
+	height: 4px;
+	background: white;
+	position: absolute;
+	content: '';
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}
+.g_p-item .overlay:after {
+	transform: translate(-50%, -50%) rotate(90deg); 
+}
+.g_p-filters {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+.g_p-filters li {
+	margin: 15px;
+}
+.g_p-filters a {
+	font-weight: 300;
+	color: #353535;
+	font-size: 16px;
+}
+.g_p-filters span {
+	font-size: 40px;
+	font-weight: 600;
+	letter-spacing: 4px;
+	color: #c69533;
+}
+.g_p-filters .active a {
+	font-weight: 600;
+	color: #c69533;
+}
+.g_p-section .load-more {
+	margin-top: 25px;
+}
+.g_p-section .load-more a {
+	display: table;
+	margin: 0 auto;
+	font-size: 14px;
+	color: #353535;
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+@media (max-width: 575.82px) {
+	.g_p-filters span {
+		font-size: 30px;
+	}
+}

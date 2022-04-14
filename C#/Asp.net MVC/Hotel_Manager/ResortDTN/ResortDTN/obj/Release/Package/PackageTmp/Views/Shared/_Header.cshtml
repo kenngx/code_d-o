@@ -1,0 +1,278 @@
+﻿<header class="n-header">
+    <nav class="desktop-menu">
+        <div class="logo-box">
+            <ul class="n-menu menu-1">
+
+
+                <li>@Html.ActionLink("Trang Chủ", "Index", "Home")</li>
+
+
+                <li>@Html.ActionLink("Giới Thiệu", "GioiThieu", "Home")</li>
+
+
+
+                <li>@Html.ActionLink("Phòng", "Phong", "Home")</li>
+
+
+
+                <li>@Html.ActionLink("Khuyến Mãi", "KhuyenMai", "Home")</li>
+
+
+                <!-- <li class="active"><a href="/" title="Home">Home</a></li>
+                <li><a href="/about" title="About Us">About Us</a></li>
+                <li><a href="/room" title="Room">Room</a></li>
+                <li><a href="/amenities" title="Amenities">Amenities</a></li>
+                <li><a href="/news" title="News">News</a></li>
+                <li><a href="/cafe_restaurants" title="Cafe &amp; Restaurants">Cafe &amp; Restaurants</a></li> -->
+            </ul>
+            <a href="Bank" title="" class="logo"><img src="~/image/x.png"></a>
+            <ul class="n-menu menu-2">
+                <li>@Html.ActionLink("Tin Tức", "TinTuc", "Home")</li>
+
+
+                <li>@Html.ActionLink("Hình Ảnh", "HinhAnh", "Home")</li>
+
+
+                <!-- <li><a href="/news" title="News">News</a></li>
+                <li><a href="/meeting" title="Meetings &amp; Events">Meetings &amp; Events</a></li>
+                <li><a href="/contact" title="Contact">Contact</a></li> -->
+                <!-- if not login -->
+                @*<li>@Html.ActionLink("Login", "Login", "Account") <br> @Html.ActionLink("Register", "Register", "Account")</li>*@
+                <li>@Html.Partial("_LoginPartial")</li>
+                <li><a class="booking-check" href="javascript:;">Đặt Phòng</a></li>
+
+                <li>@Html.ActionLink("English", "EnIndex", "Home")</li>
+
+                <li>@Html.ActionLink("Viet", "Index", "Home")</li>
+            </ul>
+
+        </div>
+    </nav>
+    <nav class="mobile-menu">
+        <div>
+            <a href="@Url.Action("Admin","Home")" title="DTN Resort at Vũng Tàu 4 Star" class="logo"><img src="~/image/x.png" "></a>
+        </div>
+        <div class="mobile-menu-trigger"><div></div></div>
+        <ul style="display: none">
+
+            <li>@Html.ActionLink("Trang Chủ", "Index", "Home")</li>
+
+
+            <li>@Html.ActionLink("Giới Thiệu", "GioiThieu", "Home")</li>
+
+
+            <li>@Html.ActionLink("Phòng", "Phong", "Home")</li>
+
+
+            <li>@Html.ActionLink("Khuyến Mãi", "KhuyenMai", "Home")</li>
+
+            <li> @Html.ActionLink("Cafe & Dining", "#", "#")</li>
+
+
+            <li> @Html.ActionLink("Tin Tức", "TinTuc", "Home")</li>
+            <li> @Html.ActionLink("Bank", "Bank", "Home")</li>
+
+
+            <li><a style="outline: none!important" data-toggle="modal" data-target="#auth-modal" href="#" title="Login "><!-- <i class="fas fa-sign-in-alt"></i> -->Đăng nhập</a></li>
+            <!-- <li><a href="javascript:void(0)" title="Đặt Phòng" class="booking-check">Đặt Phòng</a></li> -->
+        </ul>
+    </nav>
+    <div class="booking-form js-booking-form" style="display: none">
+        <form action="" id="HotelRoomForm" method="post" accept-charset="utf-8">
+            <div style="display:none;"><input type="hidden" name="_method" value="POST" /><input type="hidden" name="data[_Token][key]" value="40e6052915a31298ec317cb719ec7f8a2b4a0e19" id="Token563469340" /></div>			<div>
+                <input type="text" value="16-04-2021" required id="startDate" placeholder="Check in" name="check_in" />
+            </div>
+            <div>
+                <input type="text" value="17-04-2021" required id="endDate" placeholder="Check out" name="check_out" />
+            </div>
+            <div>
+                <select name="adult">
+                    <!-- <option value="0" disabled>ADULTS</option> -->
+                    <option value=1>1 ADULTS</option>
+                    <option value=2>2 ADULTS</option>
+                    <option value=3>3 ADULTS</option>
+                    <option value=4>4 ADULTS</option>
+                    <option value=5>5 ADULTS</option>
+                    <option value=6>6 ADULTS</option>
+                    <option value=7>7 ADULTS</option>
+                </select>
+            </div>
+            <div>
+                <select name="child">
+                    <!--  <option value=0 disabled>CHILDREN</option> -->
+                    <option value="0" selected>0 CHILDREN</option>
+                    <option value=1>1 CHILDREN</option>
+                    <option value=2>2 CHILDREN</option>
+                    <option value=3>3 CHILDREN</option>
+                    <option value=4>4 CHILDREN</option>
+                    <option value=5>5 CHILDREN</option>
+                    <option value=6>6 CHILDREN</option>
+                </select>
+            </div>
+
+            <div>
+
+                <a href="#" title="Book now" class="button gold full medium solid" target="_blank">CHECK AVAILABILITY</a>
+                <!-- <input type="submit" id="as-submit" class="button gold full" value="CHECK AVAILABILITY" style="height: 46px; border-width: 1px"> -->
+            </div>
+            <div class="check-form-mobile-btn"><input class="button gold full booking-check " value="CLOSE" style="height: 46px; border-width: 1px"></div>
+        </form>
+
+        <script type="text/javascript" src="~/js/hlwidget.min.js"></script>
+        <script type="text/javascript">
+            jQuery(function () {
+                sw = new HLWidget();
+                sw.customSW({
+                    submitElm: '#as-submit', // need to enable the submit button
+                    handler: function () { },
+                    submit: function () {
+                        return {
+                            checkin: sw.getDate(jQuery('#startDate').val(), 'd m y'),
+                            checkout: sw.getDate(jQuery('#endDate').val(), 'd m y'),
+                            adult: jQuery('select[name=adult]').val(),
+                            child: jQuery('select[name=child]').val(),
+                            submitURL: '/en/pages/booking'
+                        }
+                    }
+                });
+            });
+        </script>
+        <!-- <form action="#">
+            <div>
+                <input type="text" value="25-10-2018" required="" id="startDate" placeholder="Check in" name="check_in" class="hasDatepicker">
+            </div>
+            <div>
+                <input type="text" value="26-10-2018" required="" id="endDate" placeholder="Check out" name="check_out" class="hasDatepicker">
+            </div>
+            <div>
+                <select name="adult" style="">
+                    <option value="1">1 ADULTS</option>
+                    <option value="2">2 ADULTS</option>
+                    <option value="3">3 ADULTS</option>
+                </select>
+            </div>
+            <div>
+                <select name="adult" style="">
+                    <option value="1">1 ADULTS</option>
+                    <option value="2">2 ADULTS</option>
+                    <option value="3">3 ADULTS</option>
+                </select>
+            </div>
+            <div><input type="submit" id="as-submit" class="button gold full" value="CHECK AVAILABILITY" style="height: 46px; border-width: 1px"></div>
+            <div class="check-form-mobile-btn"><input class="button gold full booking-check " value="CLOSE" style="height: 46px; border-width: 1px"></div>
+        </form> -->
+
+    </div>
+    <style>
+        .booking-fixed-button {
+            position: fixed;
+            bottom: 0;
+            right: 0;
+            background: #dab151;
+            color: #fff;
+            z-index: 10;
+            padding: 10px 17px;
+            text-align: center;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 600;
+            text-transform: uppercase;
+            border-top-left-radius: 4px;
+            box-shadow: -2px -2px 23px rgba(255,255,255,.3);
+            transition: all .3s ease-in-out;
+        }
+
+            .booking-fixed-button:hover {
+                background: #303030;
+                color: #fff
+            }
+    </style>
+    <a href="javascript:;" class="booking-fixed-button booking-check"> <span><i class="fas fa-pencil-alt"></i></span> <span>Đặt Ngay</span></a>
+    <!-- ========== ========== -->
+    <script>
+        $(document).scroll(function () {
+            if ($(this).scrollTop() > 200) {
+                $('.n-header').addClass('header-scrolldown');
+            } else {
+                $('.n-header').removeClass('header-scrolldown');
+            }
+        });
+        $(document).ready(function () {
+            $("#UserRegisterForm").submit(function (e) {
+                e.preventDefault();
+                $(".errors").html(" ");
+                $('#btn-submit-register').prop('disabled', true);
+                $.post("/users/jregister", $("#UserRegisterForm").serialize(), function (data) {
+                    var results = JSON.parse(data);
+                    if (results.status == 1) {
+                        window.location.replace("users/login.html");
+                    } else {
+                        var html = '';
+                        results.msg.forEach(function (element) {
+                            html += element + "<br>";
+                        });
+                        $(".errors").append(html);
+                        $('#btn-submit-register').prop('disabled', false);
+                    }
+                });
+            });
+        });
+    </script>
+    <script>
+        $(document).ready(function () {
+            $("#UserLoginForm").submit(function (e) {
+                e.preventDefault();
+                $('#btn-submit-login').prop('disabled', true);
+                $.post("/users/jlogin", $("#UserLoginForm").serialize(), function (data) {
+                    var results = JSON.parse(data);
+                    if (results.status == 1) {
+                        window.location.replace("index.html");
+                    } else {
+                        $.gritter.add({
+                            title: 'Lỗi',
+                            text: results.msg
+                        });
+                        $('#btn-submit-login').prop('disabled', false);
+                    }
+                });
+            });
+        });
+    </script>
+    <!-- //Header -->
+    <h1 style="display: none">Trang chủ |DTN Resort at Vũng Tàu 4 Star</h1>
+    <div class="video-popup-section js-video-popup" style="display: none">
+        <div class="overlay js-video-popup-hide"></div>
+        <div class="video-container">
+            <div class="sizer"></div>
+            <iframe src="#" id="video-popup-frame" frameborder="0"></iframe>
+            <div class="x-btn js-video-popup-hide"></div>
+        </div>
+    </div>
+
+
+    <!-- Main -->
+    <style>
+        .booking-mo {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            font-size: 15px;
+            color: #fff;
+            background: #2d2d2d;
+            border-radius: 20px;
+            padding: 5px 15px;
+            border: none;
+            z-index: 20;
+            display: none;
+        }
+
+        (max-width: 991.82px) {
+            .booking-mo
+
+        {
+            display: block;
+        }
+        }
+    </style>
+</header>
+

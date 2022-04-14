@@ -1,0 +1,247 @@
+.event_planning-video .-box {
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 50vw;
+	height: 100%;
+}
+.event_planning-video .text {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	padding: 50px 70px;
+	display: flex;
+	align-items: center;
+}
+.event_planning-video .text h4 {
+	font-family: "Perpetua Titling MT";
+	font-weight: 300;
+	font-size: 20px;
+	color: #fff;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	padding: 0;
+	margin: 0;
+}
+.event_planning-video .text .play-btn {
+	width: 65px;
+	height: 65px;
+	border-radius: 50%;
+	border: 1px solid white;
+	margin-left: 15px;
+	position: relative;
+	transition: all .3s ease-in-out;
+	cursor: pointer;
+	flex-shrink: 0;
+}
+.event_planning-video .text .play-btn:before {
+	position: absolute;
+	content: '';
+	border-top: 12px solid transparent;
+	border-bottom: 12px solid transparent;
+	border-left: 20px solid white;
+	top: 50%;
+	left: calc(50% + 4px);
+	transform: translate(-50%, -50%);
+	transition: all .3s ease-in-out;
+}
+.event_planning-video .text .play-btn:hover {
+	background: white;
+}
+.event_planning-video .text .play-btn:hover:before {
+	border-left-color: #c69533;
+}
+
+.event_planning-text .-box {
+	padding: 70px 0;
+	padding-left: 60px;
+	padding-bottom: 90px;
+}
+.event_planning-text h4 {
+	font-family: "Poppins";
+	font-weight: 600;
+	font-size: 20px;
+	color: #353535;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	padding-bottom: 0;
+	margin-bottom: 10px;
+}
+.event_planning-text p {
+	font-size: 12px;
+	font-family: "Poppins";
+	font-weight: normal;
+	color: rgba(0,0,0,.7);
+	line-height: 2;
+	letter-spacing: 1px;
+	padding-bottom: 0;
+	text-align: justify;
+}
+
+.event_planning-text a {
+	font-family: "Poppins";
+	font-weight: bold;
+	font-size: 13.8px;
+	color: #c69533;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	margin-top: 25px;
+	display: table;
+}
+.event_planning-text a span {
+	width: 30px;
+	height: 2px;
+	margin-right: 10px;
+	background: #c69533;
+	display: inline-block;
+	transform: translateY(-4px);
+}
+
+.meeting-section {
+	padding: 100px 0;
+}
+.meeting {
+	display: flex;
+}
+.meeting-text h3 {
+	color: #fff;
+	font-family: "Poppins";
+	font-weight: 600;
+	text-transform: uppercase;
+	font-size: 20px;
+	padding-bottom: 0;
+	margin-bottom: 15px;
+}
+.meeting-text p {
+	font-family: "Poppins";
+	font-weight: 400;
+	color: rgba(255,255,255, .5);
+	font-size: 12px;
+	letter-spacing: 1px;
+	line-height: 2;
+	max-width: 700px;
+	text-align: justify;
+	padding-bottom: 0;
+}
+.meeting-text a {
+	display: table;
+	margin-top: 30px;
+	font-family: "Poppins";
+	font-weight: bold;
+	font-size: 13.8px;
+	color: #c69533;
+	text-transform: uppercase;
+}
+.meeting-text a span {
+	display: inline-block;
+	width: 30px;
+	height: 2px;
+	margin-right: 10px;
+	background: #c69533;
+	transform: translateY(-4px);
+}
+
+.e_m-slide-section {
+	padding: 80px 0;
+	overflow: hidden;
+}
+.owl-carousel.meeting-owl .owl-stage-outer {
+	overflow: visible;
+}
+.meeting-slide-item {
+	position: relative;
+}
+.meeting-slide-item:before {
+	position: absolute;
+	content: '';
+	z-index: 2;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: #353535;
+	opacity: .7;
+	transition: all .3s ease-in-out;
+}
+.meeting-slide-item .fit-thumb {
+	padding-bottom: 39.28%;
+	width: 100%;
+	height: .1px;
+	overflow: hidden;
+	position: relative;
+}
+.meeting-slide-item .fit-thumb img {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 1;
+	object-fit: cover;
+}
+.owl-item.active .meeting-slide-item:before {
+	opacity: 0;
+}
+.meeting-owl .owl-nav {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: calc(100% + 140px);
+	pointer-events: none;
+	transform: translate(-50%, -50%);
+	display: flex;
+	justify-content: space-between;
+}
+.meeting-owl .owl-nav button {
+	pointer-events: auto;
+	color: white!important;
+	font-size: 30px!important;
+	opacity: .8;
+}
+.meeting-owl .owl-nav button:focus {
+	outline: 0;
+}
+
+@media (max-width: 767.82px) {
+	.meeting-img {
+		margin-top: 40px;
+		text-align: center;
+	}
+}
+@media (max-width: 1199.82px) {
+	.meeting-owl .owl-nav {
+		width: 100%;
+		padding: 0 15px;
+	}
+}
+@media (max-width: 767.82px) {
+	.event_planning-video {
+		padding-top: 80px;
+	}
+	.event_planning-video .-box {
+		height: .1px;
+		width: 100%;
+		padding-bottom: 40%;
+		position: relative;
+	}
+	.event_planning-text .-box {
+		padding-left: 0;
+	}
+	.e_m-slide-section {
+		padding: 40px 0;
+	}
+}
+@media (max-width: 575.82px) {
+	.event_planning-video {
+		padding-top: 40px;
+	}
+	.event_planning-text .-box {
+		padding-bottom: 40px;
+	}
+	.event_planning-video .text h4 {
+		font-size: 14px;
+	}
+	.meeting-section {
+		padding: 50px 0;
+	}
+}

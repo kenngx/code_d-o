@@ -1,0 +1,184 @@
+.c_p-info-1 {
+	margin-bottom: 40px;
+}
+.c_p-info-1 h3 {
+	color: #353535;
+	font-family: "Perpetua Titling MT";
+	font-size: 30px;
+	font-weight: 300;
+	text-transform: uppercase;
+	margin-top: 0;
+	padding: 0;
+	letter-spacing: 3px;
+	margin-bottom: 10px;
+}
+.c_p-info-1 p {
+	font-family: "Poppins";
+	font-weight: 300;
+	font-size: 15px;
+	color: #000;
+	padding-bottom: 0;
+	margin-bottom: 0;
+
+}
+
+.c_p-info-2 {
+	margin-bottom: 40px;
+}
+.c_p-info-2 h4 {
+	color: #c69533;
+	font-family: "Poppins";
+	font-weight: 600;
+	font-size: 20px;
+	padding: 0;
+	margin: 0;
+	margin-bottom: 18px;
+}
+.c_p-info-2 p {
+	color: #2d2d2d;
+	font-weight: normal;
+	font-size: 12px;
+	font-family: "Poppins";
+	padding-bottom: 0;
+	line-height: .9;
+}
+.c_p-info-2 p.focus {
+	font-weight: bold;
+	color: #353535;
+}
+.c_p-info-2 .space {
+	width: 3px;
+	height: 0.1px;
+	margin-bottom: 25px;
+}
+
+.c_p-form-section {
+	background: #353535;
+	padding: 62px 0;
+	position: relative;
+}
+
+.c_p-form {
+	display: flex;
+	flex-wrap: wrap;
+}
+.c_p-form form {
+	width: 66.67%;
+}
+.c_p-form-row {
+	margin-left: -5px;
+	margin-right: -5px;
+}
+.c_p-form-row [class*="col-"] {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.c_p-form input, .c_p-form textarea {
+	margin-bottom: 10px;
+}
+.c_p-form input {
+	height: 58px;
+	font-size: 16px;
+	color: #333;
+	font-family: "Poppins";
+	font-weight: normal;
+}
+.c_p-form .subject {
+	display: flex;
+}
+.c_p-form .subject textarea {
+	height: unset;
+}
+
+.c_p-form .-text {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-top: 10px;
+}
+
+.c_p-form .-text p {
+	color: #fff;
+	font-family: "Poppins";
+	font-weight: 300;
+	font-size: 15px;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+.c_p-form .-text a {
+	display: table;
+	font-family: "Poppins";
+	font-weight: 600;
+	font-size: 13px;
+	color: #c69533;
+	height: 33px;
+	line-height: 32px;
+	border: 1px solid #c69533;
+	padding: 0 28px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	transition: all .3s ease-in-out;
+}
+.c_p-form .-text a:hover {
+	background: #c69533;
+	color: white;
+}
+
+.c_p-form .map {
+	width: 33.33%;
+	display: flex;
+	padding-left: 60px;
+}
+.c_p-form .map div {
+	position: relative;
+	width: 100%;
+}
+.c_p-form .map div iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+
+@media (max-width: 991.82px) {
+	.KhungImageContact {
+		padding-bottom: 50%;
+		margin-bottom: 40px;
+		height: auto;
+	}
+	.c_p-form form {
+		width: 100%;
+		order: 1;
+	}
+	.c_p-form .map {
+		width: 100%;
+		padding-left: 0;
+		margin-bottom: 10px;
+	}
+	.c_p-form .map div{
+		padding-bottom: 70%;
+	}
+	.c_p-form .subject textarea {
+		height: 150px;
+	}
+}
+
+@media (max-width: 767.82px) {
+	.c_p-info-1 h3 {
+		font-size: 25px;
+	}
+}
+
+@media (max-width: 575.82px) {
+	.c_p-form-section {
+		padding-top: 40px;
+	}
+	.MarginContact1 {
+		margin-top: 30px;
+	}
+	.c_p-info-1 h3 {
+		font-size: 22px;
+	}
+}

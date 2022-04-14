@@ -1,0 +1,1697 @@
+body {
+	-webkit-tap-highlight-color: transparent;
+	-webkit-touch-callout: none;
+    min-height: 100%;
+	-webkit-text-size-adjust: 100%;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+.row.no-gutters {
+	margin-left: 0;
+	margin-right: 0;
+}
+.row.no-gutters > * {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.jetmenu li:last-child{
+	border:1px solid #c69533;
+	margin-top: 18px;
+	margin-bottom: 18px;
+}
+.jetmenu li:last-child a{
+	color: #c69533;
+	padding: 10px 15px;
+}
+.wrap a.logo {
+	max-width: 120px;
+}
+.wrap a.logo img{
+	max-width: 100%;
+}
+#startDate1{
+	background:#fff url("../images/datepicker.png") 90% 13px no-repeat;
+}
+.MauVang{
+	background: #c59533;
+	width: 50%;
+	height: 100%;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	opacity: 0.7;
+}
+.hero h1{
+	width: 500px;
+    z-index: 1;
+    padding-bottom: 10px;
+    font-family: 'Perpetua Titling MT';
+    font-size: 45px;
+    color: #ffffff;
+    letter-spacing: 7px;
+    font-weight: 300;
+}
+.hero article{
+	position: absolute;
+    transform: translateY(-50%);
+    top: 50%;
+    text-align: left;
+    width: 550px;
+}
+.hero p{
+	padding-bottom: 30px;
+	letter-spacing: 0.5px;
+	font-family: Poppins;
+	font-weight: 300;
+	font-size: 16px;
+}
+.hero article{
+	padding-left: 10%;
+}
+section .wrap{
+	width: 100%;
+}
+.wrap.h_services {
+	display: block;
+}
+.TextAboutUs1{
+	width: 87%;
+}
+.TextAboutUs2{
+	width: 68%;
+}
+.cta p.h_about-detail-link {
+	color: #ffffff;
+	font-family: Poppins ;
+    font-weight: bold ;
+	font-size: 14px;
+	position: relative;
+	padding-left: 42px ;
+	padding-top: 27px ;
+	padding-bottom: 27px;
+	margin-bottom: 45px ;
+	letter-spacing: 2px;
+	position: relative;
+}
+.h_about-detail-link:before{
+	position: absolute;
+    content: '';
+    width: 30px;
+    height: 1px;
+    background: #ffffff;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.cta .h_about-text p {
+	padding-bottom: 13px;
+    margin-bottom: 0px;  
+    letter-spacing: 1px;	
+    font-weight: 400;
+}
+.ImageIcon{
+	width: 100px !important;
+	height: 100px;
+	margin: 0 auto;
+}
+.TextItem{
+	font-family: Poppins;
+    font-weight: 300;
+    font-size: 16px;
+    color: #ffffff;
+    letter-spacing: 0.5px;
+    text-align: center
+}
+.nav.tabs{
+	height: auto !important;
+}
+.container #owl1 .item{
+	width: 100%;
+	border-right: 1px solid #3d3d3d;
+}
+.container .iteam:last-child{
+	border-right: 1px solid rgba(0,0,0,0) ;	
+}
+#owl1 .owl-nav .owl-prev{
+	position: absolute;
+	width: 57px;
+	height: 57px;
+	top: 50%;
+	left: 0px;
+	transform: translateY(-50%);
+	opacity: 0.5;
+}
+.home nav.tabs{
+	height: auto;
+}
+
+#owl1 .owl-nav .owl-prev span {
+	font-size: 30px;
+	color:#cbcdcc;
+	opacity: 1;
+	background: rgba(0,0,0,0);
+}
+#owl1 .owl-nav .owl-next{
+	position: absolute;
+	width: 57px;
+	height: 57px;
+	top: 50%;
+	transform: translateY(-50%);
+	right: 0px;
+	opacity: 0.5;
+}
+#owl1 .owl-nav .owl-next span{
+	font-size: 30px;
+	color: #cbcdcc;
+	opacity: 1;
+}
+.grind2 .text p{
+	font-family: Raleway;
+	font-weight: 400;
+	font-size: 16px;
+	color: #353535;
+}
+.testimonials h6{
+	text-align: left;
+	font-family: 'Perpetua Titling MT';
+    letter-spacing: 4px;
+    font-size: 30px;
+    font-weight: 500;
+    padding: 0 0 25px;
+    color: #ffffff;
+    font-weight: 300
+}
+.testimonials p{
+	font-size: 15px;
+	font-weight: 300;
+	max-width: 730px;
+	text-align: justify;
+}
+.PlayVideo{
+	position: absolute;
+    top: 18%;
+    right: 30px;
+    font-size: 35px;
+    width: 80px !important;
+    height: 80px;
+}
+.PlayVideo:hover .ButtonPlay{
+	opacity: 0;
+}
+.PlayVideo:hover .ButtonPlay1{
+	opacity: 1;
+}
+.KhungPlayVieo{
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+.KhungImageOur{
+	position: relative;
+    width: 100%;
+    height: 0.1px;
+    padding-bottom: 90%;
+}
+.ImageOur{
+	position: absolute;
+    top: 0px;
+    height: 100%;
+    left: 100px;
+    width: 100%;
+}
+.app ol.custom {
+	display: flex;
+    flex-direction: column;
+}
+.app ol li{
+	width: 70%;
+}
+.TextOurServices{
+	letter-spacing: 4px;
+    margin-top: 70px;
+    text-align: left;
+    font-family: 'Perpetua Titling MT';
+    font-weight: 500;
+    font-size: 30px !important;
+    color: #353535;
+    font-weight: 300;
+}
+.NameOur{
+	color: #c69533;
+	font-family: Raleway;
+	font-weight: 800;
+	font-size: 20px !important;
+	letter-spacing: 1px;
+}
+#owl2 .owl-dot{
+	background: #e1e1e1;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin: 5px;
+}
+.owl-dot.focus, .owl-dot.active{
+	background: #353535 !important;
+}
+ol.custom li{
+	margin: 0 0 20px;
+}
+.KhungImage a img {
+	-webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;	
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+.KhungImage a:hover img{
+	-webkit-transform: scale(1.25);
+    -moz-transform: scale(1.25);
+    -ms-transform: scale(1.25);
+    -o-transform: scale(1.25);
+    transform: scale(1.25);
+    
+}
+.owl-dots{
+	position: absolute;
+    left: 52.5%;
+    bottom: 10%;
+}
+.NewEvent{
+	text-align: center !important;
+}
+.Lorem{
+	text-align: center !important;
+}
+.cta.black{
+	background:url("../Picture/Rectangle%20719.png") 0 0 repeat;
+}
+.cta.black .wrap.center{
+	padding: 6% 0%;
+}
+#h-news-events-swiper-mo {
+	display: none;
+}
+#h-news-events-swiper-mo .pagination {
+	position: absolute;
+	width: auto;
+	bottom: 10px;
+	left: 50%;
+	transform: translateX(-50%);
+	z-index: 10;
+}
+#h-news-events-swiper-mo .pagination .swiper-pagination-bullet-active {
+	background-color: #2d2d2d;
+}
+.r_item {
+	display: flex;
+	flex-wrap: wrap;
+}
+.r_item > div {
+	width: 50%;
+}
+@media (min-width: 1200px) {
+	.r_item.reverse .-img {
+		order: 1;
+	}
+	.r_item.reverse .KhungImage .arrow-left {
+		right: auto;
+		left: 0;
+		transform: scale(-1);
+	}
+}
+@media (min-width: 576px) and (max-width: 1199.82px) {
+	.r_item-list > *:nth-of-type(even) .r_item .-img {
+		order: 1;
+	}
+	.r_item-list > *:nth-of-type(even) .r_item .-img .arrow-left {
+		right: auto;
+		left: 0;
+		transform: scale(-1);
+	}
+}
+@media (max-width: 575px) {
+	.r_item-list {
+		display: none;
+	}
+	#h-news-events-swiper-mo {
+		display: block;
+	}
+	.r_item > div {
+		width: 100%;
+	}
+	.r_item .-img .arrow-left {
+		top: auto;
+		right: auto;
+		left: 50%;
+		bottom: 0;
+		transform: translate(-50%, 50%) rotate(90deg);
+		transform-origin: center right;
+	}
+}
+
+.KhungImage{
+	position: relative;
+	width: 100%;
+	height: 0.1px;
+	padding-bottom: 75%;
+	overflow: hidden;
+}
+.Image{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+.photo{
+	background-image: none;
+	padding: 0px;
+}
+.photo p.NamePhoto1{
+	font-family: Poppins;
+	font-weight: 400;
+	font-size: 18px;
+	color: #444444;
+	text-align: left;
+	letter-spacing: 1.5px;
+	line-height: 1.2;
+	padding: 0px !important;
+}
+.photo p.DatePhoto1{
+	font-family: Poppins;
+	font-weight: 300;
+	font-size: 13px !important;
+	color: #adadad;
+	text-align: left;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	margin-top: 4px;
+	padding-bottom: 14px;
+}
+.photo p.LoremPhoto1{
+	font-family: Poppins;
+	font-weight: 300;
+	font-size: 12px !important;
+	color: #444444;
+	text-align: left;
+	padding: 0px 0px 25px 0px !important;
+}
+.ReadMore{
+	color: #adadad;
+	text-align: left;
+	
+}
+.ReadMore p{
+	font-family: Poppins;
+	font-weight:bold;
+	font-size: 14px;
+}
+.ReadMore:hover{
+	color:#c69533;
+	text-decoration: none; 
+}
+.KhungText{
+    padding: 10% 15%;
+    width: 100%;
+    height: 0.1px;
+    padding-bottom: 65%;
+    background: #f1f1f1;
+}
+.arrow-left {
+	width:0px;
+	height:0px;
+	border-bottom:15px solid transparent;
+	border-top:15px solid transparent;
+	border-right:15px solid #f1f1f1;
+	position: absolute;
+    right: 0px;
+    top: 30px;
+}
+.arrow-right {
+    width:0px;
+    height:0px;
+    border-bottom:15px solid transparent;
+    border-top:15px solid transparent;
+    border-left:15px solid #f1f1f1; 
+    position: absolute;
+    left: 0px;
+    top: 30px;
+}
+.OurGallery{
+	display: flex;
+	justify-content: space-between;
+}
+.Menu1 ul{
+	display: flex;
+	flex-direction: row;
+	list-style-type: none !important;
+}
+.Menu1 ul > li{
+	margin: 10px 26px;
+}
+.Menu1 ul li p{
+	font-family: Poppins;
+	font-weight: 200;
+	font-size: 16px;
+	color: #adadad;
+}
+.Menu1 ul li p:hover{
+	color: #ffffff;
+	font-weight: 500;
+}
+a:hover {
+	text-decoration: none;
+}
+.TextOurGallery p{
+	font-family: Poppins;
+	font-weight:400;
+	font-size: 30px;
+	color: #ffffff;
+}
+.cta .MORE p{
+	font-family: Poppins;
+	font-weight: bold;
+	font-size: 14px;
+	color: #ffffff;
+	position: relative;
+	padding-bottom: 0;
+	margin-bottom: 35px;
+}
+.cta .MORE p:before{
+	position: absolute;
+    content: '';
+    width: 25px;
+    height: 1px;
+    background: #ffffff;
+    top: 50%;
+   	right: calc(100% + 3px);
+}
+.MORE1{
+	font-family: Poppins;
+	font-weight: bold;
+	font-size: 14px;
+	color: #ffffff;
+	position: relative;
+	float: right;
+	margin-top: 12px;
+}
+.MORE1 a {
+	color: #ffffff;
+}
+.MORE1:before{
+	position: absolute;
+    content: '';
+    width: 25px;
+    height: 1px;
+    background: #ffffff;
+    bottom: 10px;
+    left: -30px;
+}
+.copy p:last-child{
+	float: none;
+	font-family: Poppins;
+	font-weight: 400;
+	font-size: 15px;
+	color: #adadad;
+}
+.copy{
+	background: none;
+}
+.OurGallery li:before{
+	display: none;
+}
+.footer{
+	background: white;
+	padding-top: 50px;
+}
+.footer hr {
+	margin-top: 30px;
+}
+p.TextFooter{
+	font-family: Poppins;
+	font-weight: 400;
+	font-size: 14px;
+	color: #353535;
+	padding-bottom: 0;
+}
+.EnterYourEmail{
+    font-family: Poppins;
+ 	font-size:12px;
+    font-weight: lighter;
+    float: left;
+    height: 40px !important;
+    border: 1px solid #CCCCCC;
+    width: 70% !important;
+}
+.SUBSCRIBE{
+	color: white;
+    font-family: "Montserrat";
+    font-size: 12px;
+    font-weight: bold;
+    height: 40px;
+    border: none;
+    padding-right: 15px;
+    padding-left: 15px;
+    cursor: pointer;
+    background: #c69533 !important;
+}
+
+.Footer4 i{
+	color: #4d4d4d;
+    font-size: 20px;
+    margin: 4px 0 0 10px;
+}
+.KhungItem{
+	width: 100%;
+	height: 0.1px;
+	padding-bottom: 75%;
+	position: relative;
+}
+.Item{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	filter: sepia(200%);
+    -webkit-filter: sepia(200%);
+    -moz-filter: sepia(200%);
+    -ms-filter: sepia(200%);
+    -o-filter: sepia(200%);
+}
+.Item:hover{
+     filter: none;
+     -webkit-filter: none;
+     -moz-filter: none;
+     -ms-filter: none;
+     -o-filter: none;
+};
+.wow{
+	margin-bottom: 20px !important;
+}
+#startDate{
+	border:none;
+	border-bottom: 1px solid #ddd;
+}
+div.selector{
+	border: none;
+	border-bottom: 1px solid #ddd;
+}
+.search-hide{
+	margin-top: -5px;
+}
+.wrap div select option{
+	font-family: Poppins;
+	font-weight: 400;
+	font-size: 13px;
+	color: #161616
+}
+.advanced-search .wrap > div{
+	width: 18%;
+}
+.app ol.custom{
+	margin-top: 0px;
+}
+.KhungPlayVideo{
+	height: 100px
+}
+.TextFooter:hover{
+	color: #c69533;
+}
+.Footer4 i:hover{
+	color: #c69533;
+}
+.jetmenu > li > a{
+	text-transform: none;
+    font-family: Poppins;
+    font-weight: 500;
+    color: #666666;
+    letter-spacing: 0.3px;
+}
+.cta.black .wrap.center{
+	padding: 30px 0%;
+}
+.home section h2{
+	font-family: 'Perpetua Titling MT';
+	font-size: 30px;
+	color: #ffffff;
+	letter-spacing: 2px;
+	font-weight: 300
+}
+.TextOurGallery p{
+	font-family: 'Perpetua Titling MT';
+	font-weight: 300;
+	font-size: 30px;
+	color: #ffffff;
+	letter-spacing: 4px;
+}
+.button.gold{
+	border-color: #353535;
+}
+.button.gold:hover{
+	border-color: #c69533;
+	background:#c69533 !important;
+}
+.PictureIcon{
+	width: auto !important;
+	height: auto !important;
+	padding: 14px 0px;
+}
+.boxed header{
+	font-family: Poppins;
+	font-size: 30px;
+	color: #ffffff;
+	letter-spacing: 2px;
+}
+.details .price{
+	font-family: Poppins;
+	font-weight: 400;
+	font-size: 30px;
+	color: #515e64;
+}
+.lSPrev{
+	font-family: Poppins;
+	font-weight: bold !important;
+	font-size: 14px;
+	color: #adadad !important;
+	letter-spacing: 1px;
+}
+.lSNext{
+	font-family: Poppins;
+	font-weight: bold !important;
+	font-size: 14px;
+	color: #adadad !important;
+	letter-spacing: 1px;
+}
+.lSPrev:hover{
+	color: #353535;
+}
+.lSNext:hover{
+	color: #353535;
+}
+.Margin1{
+	margin-top: 45px;
+}
+.MauDen{
+	position: absolute;
+    background: #353535;
+    width: 2px;
+    height: 100%;
+    right: 14px;
+    z-index: 2;
+}
+#One{
+	position: relative;
+}
+#endDate{
+	border: none;
+    border-bottom: 1px solid #ddd;
+    background: #fff url(../images/datepicker.png) 90% 13px no-repeat;
+}
+.cta.gold{
+	background-size: cover;
+}
+.Booking{
+	color: #ffffff;
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 14px;
+    padding: 10px 15px 10px 15px;
+    border: 1px solid #ffffff;
+    line-height: 4;
+    letter-spacing: 1px;
+}
+.Booking span{
+	margin-left: 45px;
+}
+.Booking:hover{
+	background-color: #ffffff;
+	color: #c59533;
+}
+.TextAboutUs1{
+	width: 61%;
+}
+.TextAboutUs2{
+	width: 32%;
+}
+.flex-container{
+	display: flex;
+	justify-content: space-between;
+}
+.search-hide{
+	margin-top: 15px;
+}
+.jetmenu > li.showhide{
+	background: white;
+}
+.jetmenu > li.showhide .icon em{
+	background: #c69533;
+}
+.jetmenu li:last-child{
+	margin-top: 25px;
+	margin-left: 12px;
+    margin-right: 12px;
+}
+.jetmenu li:last-child a{
+	padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 300;
+}
+.text h3 a{
+	color: #000000;
+    font-weight: 600;
+    font-family: Poppins;
+    font-size: 23px;
+}
+.text p{
+	font-family: Raleway;
+    font-weight: 400;
+    font-size: 16px;
+    color: #353535;
+    letter-spacing: 1px;
+}
+.details p{
+	font-family: Poppins;
+	font-weight: 400;
+	font-size: 15px;
+	color: #515e64;
+}
+.cta.grey{
+	background: #353535;x`
+}
+.ButtonPlay{
+	position: absolute;
+    top: 18%;
+    right: 30px;
+    font-size: 35px;
+    max-width: 80px !important;
+    max-height: 80px;
+    opacity: 1;
+}
+.ButtonPlay1{
+	position: absolute;
+    top: 18%;
+    right: 30px;
+    font-size: 35px;
+    max-width: 80px !important;
+    max-height: 80px;
+    opacity: 0;
+}
+.grid2 .text h3{
+	letter-spacing: 1px;
+}
+.grid2 .text{
+	padding: 6% 10% 0 !important;
+}
+.lSAction{
+	bottom: 30px;
+}
+.intro{
+	background-size: cover;
+	background-position: center;
+    background-repeat: no-repeat;
+    padding: 319px 0 5px;
+    position: relative;
+}
+.ContactUs{
+	position: absolute;
+    left: 9%;
+    top: 63%;
+    font-family: 'Perpetua Titling MT';
+    font-weight: 300;
+    font-size: 50px;
+    letter-spacing: 4px;
+}
+.photo{
+	width: 100%;
+	background: white;
+}
+.KhungImageContact{
+	position: relative;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+.ImageContac1{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	object-fit: cover;
+}
+.MarginContact1{
+	margin: 80px 0px;
+	text-align: left;
+}
+.photo .NameContact1{
+	font-family: 'Perpetua Titling MT';
+	font-weight: 300;
+	font-size: 30px;
+	color: #353535;
+	letter-spacing: 4px;
+	padding: 0px 0 20px;
+	margin-top: 5px;
+	margin-bottom: 0;
+	font-weight: normal;
+}
+.photo .TextNameContact1{
+	font-family: Poppins;
+	font-weight: 300;
+	font-size: 15px;
+	color: #000000;
+}
+.photo .NameContact2{
+	font-family: Poppins;
+	font-weight: 600;
+	font-size: 20px;
+	color: #c69533;
+	letter-spacing: 1px;
+	padding: 0px 0 20px;
+}
+.photo .TextNameContact2{
+	font-family: Poppins;
+	font-weight: 400;
+	font-size: 12px;
+	color: #2d2d2d;
+    padding: 0px 0 15px;	
+}
+.photo .TextNameContact3{
+	font-family: Poppins;
+	font-weight: 400;
+	font-size: 12px;
+	color: #353535;
+    padding: 0px 0 15px;	
+}
+.MarginText{
+	margin-top: 20px;
+	margin-bottom: 50px;
+}
+.InputContact1{
+	margin:5px;
+	width: 95% !important;
+}
+.InputContact2{
+	width: 97% !important;
+    margin-left: 5px;
+}
+.InputContact3{
+	width: 90% !important;
+    height: 95% !important;
+    margin: 5px 0px 5px 15px;
+}
+.MarginContact2{
+	margin: 65px 0px;
+}
+.KhungMap{
+	position: relative;
+	width: 100%;
+	height: 0.1px;
+	padding-bottom: 100%;
+}
+.Please{
+	font-family: Poppins;
+	font-weight: 300;
+	font-size: 15px;
+	margin-top: 30px;
+	float: left;
+}
+.SENT{
+	font-family: Poppins;
+	font-weight: 600;
+	font-size: 13px;
+	color: #c69533 !important ;
+	border:1px solid #c69533;
+	padding: 10px 27px ;
+	float: right;
+	margin: 20px 30px 5px 5px;
+}
+.Map{
+	width: 60%;
+    margin: auto;
+}
+.Cafe{
+	margin: 75px 0px 190px;
+}
+.KhungIconCafe{
+	position: relative;
+	width: 100%;
+	height: 0.1px;
+	padding-bottom: 100%;
+}
+.IconCafe{
+	margin: auto;
+}
+.photo .TextCafe{
+	font-family: Poppins;
+	font-weight: 400;
+	font-size: 14px;
+	color: #2d2d2d;
+	letter-spacing: 1px;
+	text-align: left;
+}
+.photo .NameIcon{
+	font-family: Poppins;
+	font-weight: bold;
+	font-size: 15px;
+	color: #353535;
+	letter-spacing: 1px;
+	margin-top: 25px;
+	margin-bottom: 10px;
+	padding: 0px;
+	text-align: center;
+}
+.photo .TextIcon{
+	font-family: Poppins;
+	font-weight: 500;
+	font-size: 12px;
+	color: #2d2d2d;
+	letter-spacing: 1px;
+	text-align: center;
+}
+.Cafe1{
+	display: flex;
+	justify-content: space-between;
+}
+.TwoItem{
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	height: .1px;
+	position: relative;
+	overflow: hidden;
+	padding-bottom: 100%;
+	margin-bottom: 30px;
+}
+.TwoItem:last-child {
+	margin-bottom: 0;
+}
+.TwoItem img {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+.ItemCafe{
+	margin-bottom: 30px;
+	filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+}
+.ItemCafe:hover{
+	filter: none;
+    -webkit-filter: none;
+    -moz-filter: none;
+    -ms-filter: none;
+    -o-filter: none;
+}
+.container #owl3 .item{
+	border-right: 0px !important;	
+}
+.MoreItem{
+	position: relative;
+    width: 100%;
+    height: auto;
+}
+#owl3{
+	transform: translateY(-65px);
+}
+#owl3 .owl-dots .owl-dot{
+	width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: #ffffff !important;
+    margin-left: 12px;
+    opacity: .3;
+}
+#owl3 .owl-dots .owl-dot.active{
+	opacity: 1;
+}
+#owl3 .owl-dots{
+	position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: -6%;
+}
+#owl4 .item{
+	margin: 50px 0px;
+}
+#owl4 .item .Item1{
+	margin-bottom: 50px;
+    border-right: 1px solid #3d3d3d;
+}
+#owl4 .item .Item2{
+    border-right: 1px solid #3d3d3d;
+}
+#owl4 .owl-dots .owl-dot{
+	width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: #ffffff !important;
+    margin-left: 12px;
+    opacity: .3;
+}
+#owl4 .owl-dots .owl-dot.active{
+	opacity: 1;
+}
+#owl4 .owl-dots{
+	position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 0%;
+}
+.white .OurGallery .Menu1{
+	width: 45%;
+}
+.white .OurGallery{
+	justify-content: space-between;
+}
+.cta.white{
+	padding-top: 90px;
+	padding-bottom: 40px;
+}
+.white .TextOurGallery p{
+	color: #353535;
+}
+.white .Menu1 p{
+	font-family: Poppins;
+	font-weight: 400;
+	font-size: 12px;
+	color: #2d2d2d;
+}
+.white .MORE p{
+	color: #c69533;
+}
+.white .MORE p:before{
+	background: #c69533;
+}
+#owl5 .owl-item .item{
+	position: relative;
+	width: 100%;
+	height: 0.1px;
+	padding-bottom: 110%;
+}
+#owl5 .ImageOurGallery{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	left: 0px;
+	top: 0px;
+	object-fit: cover;
+}
+.item .MauCam{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	left: 0px;
+	top: 0px;
+	background: #c69533;
+	opacity: 0;
+	transition: opacity 0.3s ease-in-out;
+}
+.item .Plus{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-50%);	
+	width: auto !important;
+	opacity: 0;
+	transition: opacity 0.3s ease-in-out;
+}
+#owl5 .item	a{
+	z-index: 1;
+}
+#owl5 .item:hover .MauCam{
+	opacity: 0.7;
+}
+#owl5 .item:hover .Plus{
+	opacity: 1;
+}
+.ContactAmenities{
+	background-size: cover;
+    background-repeat: no-repeat;
+}
+.ContactWithUs1 p{
+	font-family: Poppins;
+    font-size: 20px;
+    color: #ffffff;
+    letter-spacing: 1px;
+    text-align: left;
+}
+.ContactWithUs2 a{
+	font-family: Poppins;
+    font-weight: 600;
+    font-size: 12px;
+    color: #c69533;
+    padding: 15px 30px;
+    border: 1px solid #c69533;
+
+}
+.ContactWithUs{
+	display: flex;
+	justify-content: space-between;
+	padding: 80px 0px;
+}
+.ContactWithUs1{
+	width: 54%;
+}
+.ContactWithUs2{
+    padding-top: 17px;	
+}
+.OurGallery1{
+	padding-bottom: 120px;
+	background: #ffffff;
+}
+#owl5 .owl-dots .owl-dot{
+	width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: #c2c2c2;
+    margin-left: 12px;
+}
+#owl5 .owl-dots .owl-dot.active{
+	background: #353535;
+}
+#owl5 .owl-dots{
+	position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: -25%;
+}
+.Experience .NameContact1{
+	text-align:left;
+}
+.NameContact2{
+	text-align: left;
+}
+.TextNameContact2{
+	line-height: 2;
+	text-align: left;
+}
+.AmenitiesMalibu{
+	display: flex;
+	justify-content: space-between;
+}
+.Experience{
+	width: 64%;
+}
+.TheMalibu{
+	padding: 100px 0px;
+	background: #f1f1f1;
+}
+.video1{
+    flex-shrink: 0;
+    width: 529.5px;
+    position: relative;
+    height: 0.1px;
+    padding-bottom: 30%;
+}
+.VideoA{
+	float: right;
+	width: 100%;
+    position: absolute;
+    height: 100%;
+    object-fit: cover;
+}
+.Experience{
+	flex-shrink: 0;
+}
+.video1 .__play-btn {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+.white1{
+	background: #ffffff;
+	padding: 50px 0px;
+}
+.Reservation{
+	padding: 30px 0px;
+	margin-bottom: 20px
+}
+.ReservationIMG{
+	margin: auto;
+	margin-bottom: 20px;
+}
+.Your{
+	font-family: Poppins;
+    font-weight: 400;
+    font-size: 20px;
+    color: #ffffff;
+}
+.Check{
+	font-family: Poppins;
+    font-weight: 400;
+    font-size: 11px;
+    color: #ffffff;
+}
+.Month{
+	font-family: Poppins;
+    font-weight: 400;
+    font-size: 11px;
+    color: #ffffff;
+    width: 100%;
+    padding: 5px 0px;
+}
+.TextReservation1{
+	font-family: Poppins;
+    font-weight: 400;
+    font-size: 15px;
+    color: #ffffff;
+    padding: 10px 0px;
+}
+.TextReservation2{
+	font-family: Poppins;
+    font-weight: 400;
+    font-size: 21px;
+    color: #ffffff;
+    padding: 10px 0px;
+}
+.Day{
+	font-family: Poppins;
+    font-weight: 400;
+    font-size: 30px;
+    color: #ffffff;
+    padding-bottom: 15px;
+}
+.Padding{
+	padding: 0px 35px;
+}
+.Border1{
+	border-right: 1px solid;
+}
+.Border3{
+	display: flex;
+	border-right: 1px solid;
+	border-bottom: 1px solid;
+}
+.Border4{
+	display: flex;
+	border-bottom:  1px solid;
+	padding-left: 10px;
+}
+.Border5{
+	border-right: 1px solid;
+	border-bottom: 1px solid;
+}
+.Border6{
+	border-bottom: 1px solid;	
+}
+.TextAndYour1{
+	font-family: Poppins;
+	font-weight: 500;
+	font-size: 12px;
+	color: #353535;
+	text-align: left;
+}
+.Booking{
+	font-family: Poppins;
+	font-weight: 400;
+	font-size: 15px;
+	color: #fff;
+	text-align: left;
+	line-height: 1.5;
+}
+.Booking:hover{
+	color: #000000;
+}
+.Login{
+	font-family: Poppins;
+	font-weight: 500;
+	font-size: 15px;
+	color: #c69533;
+}
+.TwoInput{
+	display: flex;
+}
+.OneInput{
+	width: 50%;
+}
+.TwoInput > .OneInput{ margin-right: 30px; }
+.OneInput:last-child{
+	margin-right: 0px;
+}
+.Input1{
+	background: #f3f3f3;
+    border: 0px !important;
+    margin-bottom: 20px;	
+}
+.TextAndYour2{
+	font-family: Poppins;
+	font-weight: 500;
+	font-size: 16px;
+	color: #353535;
+	text-align: left;
+}
+.TextPayment1{
+	font-family: Poppins;
+	font-weight: 300;
+	font-size: 12px;
+	color: #353535;
+	text-align: left;
+}
+.TextPayment2{
+	font-family: Poppins;
+	font-weight: 500;
+	font-size: 14px;
+	color: #353535;
+	text-align: left;
+	float: left;
+	padding-top: 12px;
+}
+.Input2{
+	background: #f3f3f3;
+    border: 0px !important;
+    margin-bottom: 20px;	
+    width: 60% !important;
+}
+.Payment{
+	display: flex;
+}
+.Payment > div{
+	margin-right: 24px;
+}
+.KhungPayment{
+	width: 50%;
+}
+.KhungPayment:last-child{
+	margin-right: 0px;
+}
+.nav-item .nav-link{
+	font-family: Poppins;
+	font-weight: 500;
+	font-size: 12px;
+	color: #adadad !important;
+	border:none !important;
+}
+.nav-item{
+	padding: 0px;
+}
+.nav-link.active{
+	color: #c69533 !important;
+}
+.nav-tabs{
+	border-bottom: 0px;
+}
+.tab-content{
+	background: #f3f3f3;
+	padding-bottom: 0px;
+}
+.Payment1{
+	border-bottom: 1px solid #e1e1e1;
+}
+.checker span{
+	background: #c69533 !important;
+	border-radius: 30%;
+}
+.checker span:before{
+	color: white !important;
+}
+.Checkbox{
+	display: flex;
+	width: 100%;
+}
+.Checkbox1{
+	width: 50%;
+}
+.Checkbox > .Checkbox1{}
+ul > li:before {
+	content: none;
+}
+.CONFIRM{
+	font-family: Poppins;
+	font-weight: 600;
+	font-size: 13px;
+	color: #c69533;
+	padding: 10px 25px;
+	border:1px solid #c69533;
+}
+.Text1Booking2{
+	font-family: Poppins;
+	font-weight: 500;
+	font-size: 15px;
+	color: #000000;
+	text-align: left;
+}
+.Text2Booking2{
+	font-family: Poppins;
+	font-weight: 300;
+	font-size: 15px;
+	color: #000000;
+	text-align: left;
+}
+.Text3Booking2{
+	font-family: Poppins;
+	font-weight: 600;
+	font-size: 20px;
+	color: #c69533;
+	text-align: left;
+}
+.Text4Booking2{
+	font-family: Poppins;
+	font-weight: 600;
+	font-size: 14px;
+	color: #353535;
+	text-align: left;
+	padding-bottom: 5px;
+}
+.Text5Booking2{
+	font-family: Poppins;
+	font-weight: 300;
+	font-size: 14px;
+	color: #353535;
+	text-align: left;
+}
+
+
+
+@media (max-width: 1199px){
+	.owl-dots{
+		left: 0px;
+    	bottom: 0%;
+	}
+	ol.custom li{
+		padding: 0 15px 20px 75px;
+	}
+	.app ol li{
+		width: 100%;
+	}
+	.hero article{
+		width: 550px;
+	}
+	.AmenitiesMalibu{
+		flex-direction: column;
+	}
+	.Experience{
+		width: 100%;
+	}
+	.video1{
+		width: 100% !important;
+		padding-bottom: 60%;
+		margin-bottom: 40px;
+	}
+	.ButtonPlay3{
+		left: 50%;
+	}
+	.ButtonPlay4{
+		left: 50%;
+	}
+}
+
+.footer .KhungLogo {
+	max-width: 190px;
+}
+
+@media(max-width: 1000px){
+	.advanced-search .wrap > div{
+		width: 100%;
+	}
+	.advanced-search .wrap > div, .advanced-search .wrap > div:first-child, .advanced-search .wrap > div:last-child{
+		width: 100%;
+	}
+}
+
+@media (max-width: 991px) {
+	.jetmenu li:last-child {
+		margin-left: 0;
+		margin-right: 0;
+	}
+}
+
+@media (max-width: 980px) {
+	.wrap a.logo {
+		position: absolute;
+		max-width: 80px;
+		z-index: 1;
+	}
+}
+
+@media screen and (min-width: 960px) and (max-width: 1199.9px){
+	.hero h1 {
+		font-size: 35px;	
+	}
+	.hero p {
+		font-size: 15px;
+	}
+	.InputContact3{
+		margin: 5px 0px 5px 5px;
+		width: 97% !important;
+	}
+	.InputContact1 {
+    	margin: 5px 0px 5px 5px;
+    }
+    .ContactUs{
+    	font-size: 45px;
+    }
+}
+@media (max-width: 959.9px){
+	.white .OurGallery{
+		flex-direction: column;
+	}
+	.white .Menu1 p{
+		width: 200%;
+	}
+}
+
+@media screen and (min-width: 720px )  and (max-width: 959.9px){
+	.hero h1 {
+		font-size: 22px;
+	}
+	.hero p {
+		font-size: 11.5px;
+	}
+	.InputContact3{
+		margin: 5px 0px 5px 5px;
+		width: 97% !important;
+	}
+	.ContactUs{
+    	font-size: 40px;
+    }
+    .Padding {
+    	padding: 0px 25%;
+	}
+}	
+@media(max-width: 767.9px){
+	.Menu1 ul{
+		flex-direction: column;
+	}
+	.Cafe1{
+		flex-direction: column;
+	}
+	.ContactWithUs{
+		flex-direction: column;
+	}
+	.ContactWithUs1{
+		width: 100%;
+	}
+	.ContactWithUs1 p{
+		text-align: center;
+	}
+	.Payment{
+		flex-direction: column;
+	}
+	.KhungPayment{
+		width: 100%;
+	}
+}
+@media (max-width: 719.9px){
+	.MauVang{
+		width: 100%;
+	}
+
+}
+@media (max-width: 768px) {
+	.footer .KhungLogo {
+		margin-bottom: 20px;
+	}
+}
+@media screen and (min-width: 481px )  and (max-width: 719.9px){
+	.hero h1 {
+		font-size: 25px;
+	}
+	.hero p{
+		width: 70%;
+		font-size: 13px;
+	}
+	.flex-container{
+		flex-direction: column;
+	}
+	.TextAboutUs1{
+		width: 100%;
+	}
+	.TextAboutUs2{
+		width: 100%;
+	}
+	.InputContact3{
+		margin: 5px 0px 5px 5px;
+		width: 97% !important;
+	}
+	.ContactUs{
+    	font-size: 35px;
+    }
+    .Please{
+    	margin-left: 7px;
+    }
+}
+@media(max-width: 480px){
+	.advanced-search .wrap > div{
+		width: 100%;
+	}
+	.flex-container{
+		flex-direction: column;
+	}
+	.TextAboutUs1{
+		width: 100%;
+	}
+	.TextAboutUs2{
+		width: 100%;
+	}
+	.hero h1{
+		font-size: 25px;
+	}
+	.hero article{
+		padding-left: 15px;
+	}
+	.InputContact3{
+		margin: 5px 0px 5px 5px;
+		width: 97% !important;
+	}
+	.ContactUs{
+    	font-size: 35px;
+    }
+    .Please{
+    	margin-left: 7px;
+    }
+    .photo .TextNameContact1{
+    	font-size: 13px;
+    }
+    .photo .NameContact1{
+    	font-size: 25px;
+    }
+    .TwoInput{
+    	flex-direction: column;
+    }
+    .OneInput{
+    	width: 100%;
+    }
+}
+@media (max-width: 400px){
+	.hero article{
+		width: 300px;
+	}
+	.Padding{
+		padding: 0px 5px;
+	}
+}
+@media(max-width: 360px){
+	.TextOurGallery{
+		width: 75%;
+	}
+}

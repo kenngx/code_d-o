@@ -1,0 +1,65 @@
+.jetmenu > li > a {
+	font-family: 'Open Sans';
+	font-weight: 600;
+}
+p {
+	font-family: 'Open Sans'!important
+}
+.NameOur {
+	font-family: 'Open Sans'
+}
+/*auth popup*/
+.auth-popup input {
+	font-family: "Open Sans"
+}
+.auth-popup .form-footer .form-submit, .auth-popup .form-submit._2 {
+	font-family: "Open Sans";
+	white-space: nowrap;
+}
+/*end auth popup*/
+
+/*home*/
+.hero h1,
+.home section h2,
+.testimonials h6,
+.home section h2,
+.h_gallery-header .title h3,
+.ContactUs,
+.a_p-hi > .-text h3,
+.a_p-slide-title h3,
+.c_p-info-1 h3,
+.auth-popup .form-tab-list a
+{
+	font-family: 'Playfair Display', serif;
+}
+/*end home*/
+
+/*about page*/
+.a_p-hi > .-imgs .img-box .img-text h4, .a_p-hi > .-imgs .img-box .img-text h5 {
+	font-family: "Open Sans";
+}
+
+/*end about page*/
+
+/*meeting*/
+.event_planning-text h4, .meeting-text h3 {
+	font-family: "Open Sans"
+}
+/*end meeting*/
+
+/*contact*/
+.c_p-info-2 h4 {
+	font-family: "Open Sans"
+}
+.c_p-form .-text a, .c_p-form .-text button {
+	font-family: "Open Sans"
+}
+.ContactWithUs2 a {
+	font-family: "Open Sans"
+}
+/*end contact*/
+/*new page*/
+.n_p-item .text h3 a {
+	font-family: "Open Sans"
+}
+/*end new page*/

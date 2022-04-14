@@ -1,0 +1,735 @@
+﻿
+@{
+    ViewBag.Title = "Bank";
+    Layout = "~/Views/_LayoutPage1.cshtml";
+}
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from www.malibuhotel.vn/en/bank by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 16 Apr 2021 12:07:29 GMT -->
+<!-- Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Bank account | The Malibu Hotel at Vũng Tàu 4 Star</title>
+    <!-- seo thong thuong-->
+    <meta name="keywords" content="khách sạn đẹp ở vũng tàu,khach san vung tau,đặt phòng khách sạn vũng tàu,khach san o vung tau,ks vung tau,khách sạn ở vũng tàu,khách sạn vũng tàu giá rẻ Vung Tau,khachsanvungtaucohoboi" />
+    <meta name="description" content="DTN Resort Vung Tau offers 209 tastefully furnished rooms and suites with beautiful decor and countless amenities. With spa-cious rooms starting on the 6th floor, Malibu offers breath taking views of the ocean and mesmerizing views of the city." />
+    <meta name="author" content="DTN Resort at Vũng Tàu 4 Star" />
+    <meta name="revisit-after" content="1 days" />
+    <meta name="robots" content="index,follow" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+
+    <!-- meta google -->
+    <meta itemprop="name" content="Bank account | DTN Resort at Vũng Tàu 4 Star">
+    <meta itemprop="description" content="DTN ResortVung Tau offers 209 tastefully furnished rooms and suites with beautiful decor and countless amenities. With spa-cious rooms starting on the 6th floor, Malibu offers breath taking views of the ocean and mesmerizing views of the city.">
+    <meta itemprop="image" content="" />
+    <!-- meta facebook -->
+    <meta property="fb:app_id" content="" />
+    <meta property="og:url" content="index.html" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="DTN Resort at Vũng Tàu 4 Star">
+    <meta property="og:title" content="Bank account | DTN Resort at Vũng Tàu 4 Star" />
+    <meta property="og:description" content="DTN Resortat Vung Tau offers 209 tastefully furnished rooms and suites with beautiful decor and countless amenities. With spa-cious rooms starting on the 6th floor, Malibu offers breath taking views of the ocean and mesmerizing views of the city. " />
+    <meta property="og:image" content="" />
+
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="~/css/stylesheet.css">
+    <link rel="stylesheet" type="text/css" href="~/css/stylesheet.css">
+    <link rel="stylesheet" type="text/css" href="~/css/nice-select.css">
+    <link rel="stylesheet" href="~/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="~/css/style.css" />
+    <link rel="stylesheet" href="~/css/fonts.css" />
+
+    <link rel="stylesheet" href="~/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="~/css/lightSlider.min.css" />
+    <link rel="stylesheet" href="~/css/animate.css" />
+    <link rel="stylesheet" href="~/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/magnific-popup.css">
+    <link rel="stylesheet" href="~/css/swiper.min.css">
+
+
+    <!-- <link rel="stylesheet" href="/theme/DefaultV4/fonts/OpenSans/stylesheet.css"> -->
+    <link rel="stylesheet" href="~/css/main.css" />
+    <link rel="stylesheet" href="~/css/edit.css">
+    <link rel="stylesheet" href="~/css/index.css">
+    <link rel="stylesheet" href="~/css/about.css" />
+    <link rel="stylesheet" href="~/css/news.css">
+    <link rel="stylesheet" href="~/css/rooms.css" />
+    <link rel="stylesheet" href="~/css/gallery.css" />
+
+    <link rel="stylesheet" href="~/css/event_planning.css" />
+    <link rel="stylesheet" href="~/css/contact.css" />
+
+    <link rel="stylesheet" href="~/css/gallery.css" />
+    <link rel="stylesheet" href="~/css/user_profile.css" />
+    <link href="~/css/video-js.min.css" rel="stylesheet">
+    <style>
+        .price-close {
+            text-decoration: line-through;
+        }
+    </style>
+    <script src="~/js/jquery.min.js"></script>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:100,200,300,400,700%7CRaleway:100,200,300,400,500,600,700&amp;subset=latin,greek,cyrillic,vietnamese' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900" rel="stylesheet">
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-123953806-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-123953806-1');
+    </script>
+
+</head>
+<body class="home">
+    <!-- Preloader -->
+    <!-- <div class="preloader">
+        <div>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </div> -->
+    <!-- //Preloader -->
+    <!-- Header -->
+    <style>
+        .x-menu-close-wrap {
+            width: 40px;
+            padding: 10px 0;
+            margin-left: auto;
+            margin-right: 0;
+            display: none;
+        }
+
+        .x-menu-close {
+            width: 40px;
+            height: 40px;
+            margin-left: auto;
+            margin-right: 0;
+            /*position: absolute;*/
+            top: 0;
+            left: 0;
+            position: relative;
+        }
+
+            .x-menu-close > div {
+                position: relative;
+                width: 20px;
+                height: 1px;
+                background: #c69533;
+                top: 19px;
+                left: 10px;
+            }
+
+                .x-menu-close > div:before, .x-menu-close > div:after {
+                    width: 20px;
+                    height: 1px;
+                    position: absolute;
+                    background: #c69533;
+                    content: '';
+                    left: 0;
+                    top: -5px;
+                }
+
+                .x-menu-close > div:after {
+                    top: 5px;
+                }
+
+        .auth-signed-in {
+            display: block !important;
+            position: relative !important;
+        }
+
+            .auth-signed-in:hover ul {
+                display: block;
+            }
+
+            .auth-signed-in ul {
+                display: none;
+                position: absolute;
+                top: 100%;
+                left: 50%;
+                transform: translateX(-50%);
+                background: white;
+            }
+
+                .auth-signed-in ul li {
+                    display: block;
+                    float: none;
+                }
+
+                    .auth-signed-in ul li:last-child {
+                        border: none;
+                        margin: 0;
+                    }
+
+                        .auth-signed-in ul li:last-child a,
+                        .auth-signed-in ul li a {
+                            text-transform: none;
+                            font-family: Poppins;
+                            font-weight: 500;
+                            color: #666666;
+                            letter-spacing: 0.3px;
+                            white-space: nowrap;
+                            padding: 10px 20px;
+                            display: block;
+                            font-size: 14px;
+                        }
+
+                            .auth-signed-in ul li a i {
+                                margin-right: 10px;
+                            }
+
+                            .auth-signed-in ul li a:hover {
+                                background: #e4e4e4;
+                            }
+
+        .jetmenu li.auth-signed-in-mb {
+            display: none;
+        }
+
+        (min-width: 981px) {
+            .jetmenu
+
+        {
+            display: block !important;
+        }
+
+        }
+
+        (max-width: 980px) {
+            .header > .wrap
+
+        {
+            height: auto;
+        }
+
+        .jetmenu {
+            display: none;
+        }
+
+        .x-menu-close-wrap {
+            display: block;
+        }
+
+        .auth-signed-in {
+            display: none !important;
+        }
+
+        .jetmenu li.auth-signed-in-mb {
+            display: block;
+        }
+        }
+    </style>
+    <style>
+        header.header {
+            display: none !important;
+        }
+    </style>
+
+
+    <!-- ========== ========== -->
+
+    <style>
+        .button {
+            cursor: pointer;
+        }
+
+        .mobile-menu-trigger {
+            width: 40px;
+            height: 40px;
+            position: relative;
+            cursor: pointer;
+        }
+
+            .mobile-menu-trigger > div {
+                position: relative;
+                width: 20px;
+                height: 1px;
+                background: #c69533;
+                top: 19px;
+                left: 10px;
+            }
+
+                .mobile-menu-trigger > div:before, .mobile-menu-trigger > div:after {
+                    width: 20px;
+                    height: 1px;
+                    position: absolute;
+                    background: #c69533;
+                    content: '';
+                    left: 0;
+                    top: -5px;
+                }
+
+                .mobile-menu-trigger > div:after {
+                    top: 5px;
+                }
+
+        .n-header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            z-index: 3;
+            background: rgba(48, 48, 48, 0.5);
+            transition: all .3s ease-in-out;
+        }
+
+            .n-header.header-scrolldown {
+                background: rgba(48, 48, 48, .9);
+            }
+
+            .n-header nav {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+
+                .n-header nav.desktop-menu {
+                }
+
+            .n-header .logo-box {
+                position: relative;
+                height: 80px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                margin: 15px 0;
+                transition: all .3s ease-in-out;
+            }
+
+            .n-header.header-scrolldown .logo-box {
+                margin: 0;
+            }
+
+            .n-header .logo-box .logo img {
+                max-width: 190px;
+            }
+
+        .n-menu {
+            display: flex;
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            white-space: nowrap;
+        }
+
+            .n-menu > li a {
+                display: block;
+                padding: 0 26px;
+                font-weight: 400;
+                font-family: 'Roboto Condensed';
+                font-size: 13px;
+                letter-spacing: 1px;
+                color: #f9f9f9;
+                text-decoration: none;
+                display: inline-block;
+                text-transform: uppercase;
+            }
+
+                .n-menu > li a:hover, .n-menu > li.active a {
+                    color: #c79626;
+                }
+
+            .n-menu.menu-1 {
+                right: calc(100% + 20px);
+            }
+
+            .n-menu.menu-2 {
+                left: calc(100% + 20px);
+            }
+
+            .n-menu > li a.book-btn {
+                padding-top: 5px;
+                padding-bottom: 5px;
+                padding-left: 20px;
+                padding-right: 20px;
+                font-family: Poppins;
+                font-size: 13px;
+                font-weight: 300;
+                border: 1px solid #c69533;
+                margin: 0 10px;
+            }
+
+        .booking-form {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            width: 100%;
+            background: #353535;
+            z-index: 3;
+            border-top: 1px solid rgba(0,0,0,.2);
+        }
+
+            .booking-form #startDate, .booking-form #endDate {
+                border: 1px solid #ffcc6542;
+                background-color: #353535;
+                color: #fff;
+            }
+
+            .booking-form div.selector {
+                border: 1px solid #ffcc6542;
+                background: none;
+            }
+
+                .booking-form div.selector span {
+                    background: none;
+                    color: #fff;
+                }
+
+            .booking-form .button.gold {
+                border-color: #c695338f
+            }
+
+            .booking-form form {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+
+                .booking-form form > div {
+                    width: 20%;
+                    padding: 30px 15px;
+                }
+
+        .mobile-menu {
+            width: 100%;
+        }
+
+            .mobile-menu .logo img {
+                max-width: 100px;
+            }
+
+        .n-header nav.mobile-menu {
+            padding: 15px 20px;
+            justify-content: space-between;
+        }
+
+            .n-header nav.mobile-menu ul {
+                position: absolute;
+                top: 100%;
+                left: 0;
+                width: 100%;
+                z-index: 2;
+                background: #303030;
+            }
+
+                .n-header nav.mobile-menu ul li a {
+                    font-size: 13px;
+                    font-weight: 600;
+                    color: #b1b1b1;
+                    text-decoration: none;
+                    display: block;
+                    padding: 11px 30px;
+                    border-bottom: 1px solid #78787817;
+                }
+
+                    .n-header nav.mobile-menu ul li a:hover, .n-header nav.mobile-menu ul li.active a {
+                        color: #c79626;
+                    }
+
+                .n-header nav.mobile-menu ul li:first-child a {
+                    border-top: 1px solid #78787817;
+                }
+
+        .main {
+            margin-top: 0px !important;
+        }
+
+        (min-width: 1133px) {
+            .n-header nav.mobile-menu
+
+        {
+            display: none;
+        }
+
+        }
+
+        (min-width: 1140px) {
+            .check-form-mobile-btn
+
+        {
+            display: none;
+        }
+
+        }
+
+        (max-width: 1139px) {
+            .booking-form form
+
+        {
+            flex-wrap: wrap;
+        }
+
+        .booking-form form > div {
+            width: 50%;
+        }
+
+        }
+
+        (max-width: 1132.8px) {
+            .n-header nav.desktop-menu
+
+        {
+            display: none;
+        }
+
+        .main {
+            margin-top: 74px;
+        }
+
+        .index-swiper-item {
+            height: calc(100vh - 74px);
+        }
+
+        }
+
+        (max-width: 767.82px) {
+            .booking-form form > div
+
+        {
+            width: 100%;
+            padding: 5px 15px;
+        }
+        }
+    </style>
+
+    <style>
+        .booking-fixed-button {
+            position: fixed;
+            bottom: 0;
+            right: 0;
+            background: #dab151;
+            color: #fff;
+            z-index: 10;
+            padding: 10px 17px;
+            text-align: center;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 600;
+            text-transform: uppercase;
+            border-top-left-radius: 4px;
+            box-shadow: -2px -2px 23px rgba(255,255,255,.3);
+            transition: all .3s ease-in-out;
+        }
+
+            .booking-fixed-button:hover {
+                background: #303030;
+                color: #fff
+            }
+    </style>
+    <a href="javascript:;" class="booking-fixed-button booking-check"> <span><i class="fas fa-pencil-alt"></i></span> <span>Book Now</span></a>
+    <!-- ========== ========== -->
+    <script>
+        $(document).scroll(function () {
+            if ($(this).scrollTop() > 200) {
+                $('.n-header').addClass('header-scrolldown');
+            } else {
+                $('.n-header').removeClass('header-scrolldown');
+            }
+        });
+        $(document).ready(function () {
+            $("#UserRegisterForm").submit(function (e) {
+                e.preventDefault();
+                $(".errors").html(" ");
+                $('#btn-submit-register').prop('disabled', true);
+                $.post("/en/users/jregister", $("#UserRegisterForm").serialize(), function (data) {
+                    var results = JSON.parse(data);
+                    if (results.status == 1) {
+                        window.location.replace("../users/login.html");
+                    } else {
+                        var html = '';
+                        results.msg.forEach(function (element) {
+                            html += element + "<br>";
+                        });
+                        $(".errors").append(html);
+                        $('#btn-submit-register').prop('disabled', false);
+                    }
+                });
+            });
+        });
+    </script>
+    <script>
+        $(document).ready(function () {
+            $("#UserLoginForm").submit(function (e) {
+                e.preventDefault();
+                $('#btn-submit-login').prop('disabled', true);
+                $.post("/en/users/jlogin", $("#UserLoginForm").serialize(), function (data) {
+                    var results = JSON.parse(data);
+                    if (results.status == 1) {
+                        window.location.replace("index.html");
+                    } else {
+                        $.gritter.add({
+                            title: 'Error',
+                            text: results.msg
+                        });
+                        $('#btn-submit-login').prop('disabled', false);
+                    }
+                });
+            });
+        });
+    </script>
+    <!-- //Header -->
+    <h1 style="display: none">Bank account | DTN Resort at Vũng Tàu 4 Star</h1>
+    <div class="video-popup-section js-video-popup" style="display: none">
+        <div class="overlay js-video-popup-hide"></div>
+        <div class="video-container">
+            <div class="sizer"></div>
+            <iframe src="#" id="video-popup-frame" frameborder="0"></iframe>
+            <div class="x-btn js-video-popup-hide"></div>
+        </div>
+    </div>
+
+    <!-- Main -->
+    <main class="main" role="main">
+
+        <!-- Hero -->
+        <header class="intro" style="background-image:url();">
+            <h1 class="ContactUs">Bank account</h1>
+        </header>
+        <!-- //Hero -->
+        <div class="a_p-hi-section relative">
+            <div class="container js-a_p-hi-container">
+                <div class="a_p-hi">
+                    <div class="-imgs js-a_p-hi-occupied">
+                        <h4>CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ DU LỊCH DTN</h4>
+                        <p>
+                            <strong>Bank: NGÂN HÀNG TMCP NGOẠI THƯƠNG VIỆT NAM – CHI NHÁNH BÌNh ThẠNH</strong><br>
+                            Account number: 0123456789<br>
+                            Swift code: ABCDEF
+                        </p>
+                        <p>
+                            <strong>Bank: NGÂN HÀNG ABCD – CHI NHÁNH BÌNH THẠNH</strong><Br>
+                            Account number: 155518329<br>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- //Tab navigation -->
+
+
+    </main>	<!-- //Main -->
+    <!-- Footer -->
+
+    <script>
+        $(document).ready(function () {
+            $("#PageJnewsletterForm").submit(function (e) {
+                e.preventDefault();
+                $('#btn-submit-newsletter').prop('disabled', true);
+
+                form = $('#PageJnewsletterForm');
+                $.ajax({
+                    type: "POST",
+                    url: "/en/pages/jnewsletter",
+                    data: form.serialize(),
+                    success: function (data) {
+                        var results = JSON.parse(data);
+                        if (results.status == 1) {
+                            $.gritter.add({
+                                title: 'Success',
+                                text: results.msg
+                            });
+                            document.getElementById('jnewletterForm').reset();
+                            $('#btn-submit-newsletter').prop('disabled', true);
+
+                        } else {
+                            var error = '';
+                            results.msg.forEach(function (element) {
+                                error = error + element + '<br>';
+                            });
+                            $.gritter.add({
+                                title: 'Error',
+                                text: error
+                            });
+                            $('#btn-submit-newsletter').prop('disabled', false);
+                        }
+                    }
+                });
+            })
+        })
+    </script>	<!-- //Footer -->
+    <!-- jQuery -->
+    <script src="~/js/video.min.js"></script>
+    <script src="~/js/youtube.min.js"></script>
+    <script src="~/js/jquery.min.js"></script>
+    <script src="~/js/bootstrap.min.js"></script>
+    <script src="~/js/magnific-popup.min.js"></script>
+    <script type="/theme/DefaultV4/js/jquery-nice-select-1.1.0/js/jquery.js"></script>
+    <script src="~/js/isotope.min.js"></script>
+    <script src="~/js/jquery.nice-select.min.js"></script>
+    <script src="~/js/owl.carousel.min.js"></script>
+    <script src="~/js/jquery-ui.min.js"></script>
+    <script src="~/js/jetmenu.js"></script>
+    <script src="~/js/jquery.uniform.min.js"></script>
+    <script src="~/js/jquery.lightSlider.min.js"></script>
+    <script src="~/js/wow.min.js"></script>
+    <script src="~/js/ion.rangeSlider.min.js"></script>
+    <script src="~/js/swiper.min.js"></script>
+    <script src="~/js/javascript.js"></script>
+    <script src="~/js/scripts.js"></script>
+    <link rel="stylesheet" type="text/css" href="~/css/jquery.gritter.css" />
+    <script type="text/javascript" src="~/js/jquery.gritter.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#lightSliderPosts").lightSlider({
+                item: 1,
+                keyPress: true,
+                gallery: false,
+                pager: false,
+                prevHtml: 'PREVIOUS',
+                nextHtml: 'NEXT'
+            });
+
+            $("#lightSliderDeals").lightSlider({
+                item: 1,
+                keyPress: true,
+                gallery: false,
+                pager: false,
+                prevHtml: 'PREVIOUS',
+                nextHtml: 'NEXT'
+            });
+
+            new WOW().init();
+
+            var swiperLogo = new Swiper('.swiper-logo', {
+                slidesPerView: 4,
+                spaceBetween: 15,
+                pagination: {
+                    el: '.swiper-pagination',
+                    type: 'bullets',
+                    clickable: true
+                },
+                breakpoints: {
+                    768: {
+                        slidesPerView: 3,
+                        spaceBetween: 15
+                    },
+                    // when window width is >= 320px
+                    480: {
+                        slidesPerView: 2,
+                        spaceBetween: 15
+                    }
+
+                },
+                autoplay: true
+            })
+        });
+    </script>
+</body>
+
+</html>

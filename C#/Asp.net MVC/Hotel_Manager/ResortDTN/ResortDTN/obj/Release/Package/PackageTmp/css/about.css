@@ -1,0 +1,240 @@
+.a_p-hi-section {
+	width: 100%;
+	float: left;
+}
+.a_p-hi {
+	display: flex;
+	flex-wrap: wrap;
+	background: white;
+}
+.a_p-hi > .-text {
+	width: 26.7%;
+	padding-top: 70px;
+	padding-right: 75px;
+	padding-bottom: 70px;
+	position: relative;
+}
+.a_p-hi > .-text h3 {
+	position: relative;
+	font-size: 35px;
+	color: white;
+	font-family: "Perpetua Titling MT";
+	font-weight: 300
+}
+.a_p-hi > .-text p {
+	font-family: "Perpetua Titling MT";
+	font-size: 19px;
+	font-weight: 300;
+	color: #fff;
+	position: relative;
+	padding-bottom: 0;
+	margin-bottom: 20px;
+}
+.a_p-hi > .-text .bg {
+	position: absolute;
+	right: 0;
+	top: 0;
+	height: 100%;
+	min-width: 100%;
+	background-size: cover;
+}
+.a_p-hi > .-imgs {
+	width: 73.3%;
+	padding: 70px;
+	padding-right: 0;
+}
+.a_p-hi > .-imgs > p {
+	font-family: "Poppins";
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(0,0,0,.5);
+	padding-bottom: 0;
+	margin-bottom: 25px;
+	letter-spacing: 1px;
+}
+.a_p-hi > .-imgs .img-list {
+	margin-top: 45px;
+	margin-left: -30px;
+	margin-right: -30px;
+}
+.a_p-hi > .-imgs .img-list [class*="col-"] {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.a_p-hi > .-imgs .img-list {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+.a_p-hi > .-imgs .img-box {
+	position: relative;
+	display: block;
+}
+.a_p-hi > .-imgs .img-box .size {
+	display: block;
+	width: 100%;
+	overflow: hidden;
+	padding-bottom: 111.11%;
+	height: .2px;
+	position: relative;
+}
+.a_p-hi > .-imgs .img-box .size:before {
+	z-index: 2;
+	position: absolute;
+	content: '';
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,1);
+	background: -moz-linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(255,255,255,0) 100%); /* ff3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(255,255,255,0)), color-stop(100%, rgba(0,0,0,1))); /* safari4+,chrome */
+	background: -webkit-linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(255,255,255,0) 100%); /* safari5.1+,chrome10+ */
+	background: -o-linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(255,255,255,0) 100%); /* opera 11.10+ */
+	background: -ms-linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(255,255,255,0) 100%); /* ie10+ */
+	background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(255,255,255,0) 100%); /* w3c */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FFFFFF', endColorstr='#000000',GradientType=0 ); /* ie6-9 */
+	opacity: .7;
+}
+.a_p-hi > .-imgs .img-box .size img {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 1;
+	object-fit: cover;
+}
+.a_p-hi > .-imgs .img-box .img-text {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	z-index: 2;
+	width: 100%;
+	padding: 20px;
+}
+.a_p-hi > .-imgs .img-box .img-text  h4 {
+	font-family: "Poppins";
+	font-size: 15px;
+	font-weight: bold;
+	color: white;
+	margin-bottom: 5px;
+	padding-bottom: 0;
+	text-align: center;
+	text-align: center;
+}
+.a_p-hi > .-imgs .img-box .img-text  h5 {
+	font-family: "Poppins";
+	font-weight: normal;
+	font-size: 13px;
+	color: white;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	text-transform: uppercase;
+}
+.a_p-section {
+	padding-bottom: 55px;
+	padding-top: 80px;
+	float: left;
+	width: 100%;
+	overflow: hidden;
+	background: #353535;
+}
+.a_p-section nav.tabs {
+	padding: 0;
+}
+.a_p-section #owl4 {
+	padding-bottom: 40px;
+}
+
+.a_p-slide-title {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+.a_p-slide-title {
+	margin-bottom: 70px;
+}
+.a_p-slide-title h3 {
+	font-family: "Perpetua Titling MT";
+	font-weight: 300;
+	font-size: 30px;
+	color: white;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+.a_p-slide-title p {
+	max-width: 560px;
+	font-family: "Raleway";
+	font-weight: 300;
+	font-size: 15px;
+	color: white;
+	text-align: right;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+
+@media (max-width: 1199.82px) {
+	.a_p-hi > .-text {
+		padding-right: 30px;
+	}
+	.a_p-hi > .-imgs {
+		padding-left: 30px;
+	}
+	.a_p-hi > .-imgs .img-list {
+		margin-left: -20px;
+		margin-right: -20px;
+	}
+	.a_p-hi > .-imgs .img-list [class*="col-"] {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+}
+
+@media (max-width: 991.82px) {
+	.a_p-hi > .-text {
+		width: 100%;
+	}
+	.a_p-hi > .-text .bg {
+		top: 0;
+		width: 100vw!important;
+		right: 50%;
+		transform: translateX(50%);
+		/*opacity: .5;*/
+	}
+	.a_p-hi > .-imgs {
+		width: 100%;
+		padding-left: 0;
+	}
+	.a_p-slide-title {
+		flex-direction: column;
+		align-items: center;
+		margin-bottom: 40px;
+	}
+	.a_p-slide-title h3 {
+		text-align: center;
+	}
+	.a_p-slide-title p {
+		text-align: center;
+	}
+}
+
+@media (max-width: 767.82px) {
+	.a_p-hi > .-imgs .img-box {
+		margin-bottom: 40px;
+	}
+}
+
+@media (max-width: 575.82px) {
+	.a_p-hi > .-imgs .img-list {
+		margin: 0 -15px;
+	}
+	.a_p-hi > .-imgs .img-box {
+		margin-bottom: 30px;
+	}
+	.a_p-slide-title h3 {
+		font-size: 25px;
+	}
+}

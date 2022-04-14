@@ -1,0 +1,135 @@
+.user_profile {
+	display: flex;
+	flex-wrap: wrap;
+}
+.user_profile-img {
+	position: relative;
+	width: 33.2%;
+	display: flex;
+}
+.user_profile-img img {
+	object-fit: cover;
+}
+.user_profile-text {
+	position: relative;
+	width: 66.8%;
+	padding-left: 60px;
+	padding-right: 125px;
+	padding-top: 60px;
+	padding-bottom: 75px;
+}
+.user_profile-text .success-noti {
+	font-size: 30px;
+	color: green;
+	text-align: center;
+	text-transform: uppercase;
+	margin-bottom: 40px;
+}
+.user_profile-text .userdata h3 {
+	padding: 0;
+}
+.user_profile-text .userdata p {
+	padding: 0;
+}
+.user_profile-text .userdata .price {
+	padding: 0;
+}
+.user_profile-text .head {
+	position: relative;
+	margin-bottom: 30px;
+}
+.user_profile-text .head p {
+	font-family: "Poppins";
+	padding: 0;
+	margin: 0;
+	text-transform: none;
+}
+.user_profile-text .head p.-title {
+	font-weight: 300;
+	font-size: 15px;
+	color: #000;
+}
+.user_profile-text .head p.-name {
+	font-weight: 600;
+	font-size: 20px;
+	color: #c69533;
+}
+.user_profile-text .head a.-edit {
+	font-weight: 500;
+	font-size: 15px;
+	color: #adadad;
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+.user_profile-text .text-block {
+	margin-bottom: 35px;
+}
+.user_profile-text .text-block p {
+	font-family: "Poppins";
+	font-weight: 300;
+	color: #353535;
+	font-size: 14px;
+	margin: 0;
+	padding: 0;
+}
+.user_profile-text .text-block p._semi {
+	font-weight: 600;
+}
+.user_profile-text .text-block p._address-text {
+	max-width: 290px;
+}
+
+.profile-edit-btn {
+	font-family: "Poppins";
+	border: 1px solid #c69533;
+	padding: 0px 20px;
+	font-size: 14px;
+	font-weight: 500;
+	margin-right: 10px;
+	box-sizing: border-box;
+	height: 40px;
+	line-height: 40px;
+	display: inline-block;
+	color: #c69533;
+	transition: all .3s ease-in-out;
+}
+.profile-edit-btn:hover {
+	background: #c69533;
+	color: white;
+}
+.profile-edit-btn._cancel {
+	border-color: rgb(165, 152, 128);
+	color: rgb(165, 152, 128);
+}
+.profile-edit-btn._cancel:hover {
+	background: rgb(165, 152, 128);
+	color: white;
+}
+
+@media (max-width: 991.82px) {
+	.user_profile-img {
+		width: 100%;
+		padding-left: 50px;
+		padding-right: 50px;
+		padding-top: 20px;
+		align-items: flex-start;
+	}
+	.user_profile-img img {
+		object-fit: unset;
+		max-width: 200px
+	}
+	.user_profile-text {
+		padding-top: 20px;
+		width: 100%;
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+}
+
+@media (max-width: 575.82px) {
+	.user_profile-text {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+}

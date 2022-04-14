@@ -1,0 +1,73 @@
+﻿@model IEnumerable<ResortDTN.Booking>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/_LayoutPage1.cshtml";
+}
+<p></p><p></p><p></p><p></p><p></p>
+<h2>Danh Sach Dat Phong</h2>
+
+<p>
+    @Html.ActionLink("Dat phong", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Customer.CustomerName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RoomPrice)
+        </th>
+
+        <th> 
+            @Html.DisplayNameFor(model => model.Room.RoomNumber)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BookingFrom)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BookingTo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Quantity)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TotalAmount)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.Customer.CustomerName)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.RoomPrice)
+    </td>
+
+    <td>
+        @Html.DisplayFor(modelItem => item.Room.RoomNumber)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.BookingFrom)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.BookingTo)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Quantity)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.TotalAmount)
+    </td>
+    <td>
+        @Html.ActionLink("Edit", "Edit", new { id = item.BookingID }) |
+        @Html.ActionLink("Details", "Details", new { id = item.BookingID }) |
+        @Html.ActionLink("Delete", "Delete", new { id = item.BookingID })
+    </td>
+</tr>
+    }
+
+</table>

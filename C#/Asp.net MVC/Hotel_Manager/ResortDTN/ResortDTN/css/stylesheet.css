@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Luxia Display';
+    src: url('Luxia-Display.eot');
+    src: url('Luxia-Displayd41d.eot?#iefix') format('embedded-opentype'),
+        url('Luxia-Display.html') format('woff2'),
+        url('Luxia-Display.woff') format('woff'),
+        url('Luxia-Display.ttf') format('truetype'),
+        url('Luxia-Display.svg#Luxia-Display') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
