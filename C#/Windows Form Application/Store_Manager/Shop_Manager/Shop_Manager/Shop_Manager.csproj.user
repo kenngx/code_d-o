@@ -1,4 +1,4 @@
-﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="Current">
   <PropertyGroup>
     <ReferencePath>C:\Program Files\Common Files\Business Objects\2.7\Managed\</ReferencePath>
   </PropertyGroup>
