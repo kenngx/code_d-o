@@ -1,0 +1,2 @@
+H:\code\Github_Upload_Code\C#\Asp.net MVC\LoginMVC\LoginMVC\obj\Debug\LoginMVC.csproj.AssemblyReference.cache
+H:\code\Github_Upload_Code\C#\Asp.net MVC\LoginMVC\LoginMVC\obj\Debug\LoginMVC.csproj.CoreCompileInputs.cache

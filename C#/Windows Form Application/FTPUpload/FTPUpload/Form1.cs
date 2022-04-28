@@ -75,7 +75,7 @@ namespace FTPUpload
 
         private void btnUpload_Click(object sender, EventArgs e)
         {
-            using (OpenFileDialog ofd = new OpenFileDialog() { Multiselect = false, ValidateNames = true, Filter = "All files|*.*" })
+            using (OpenFileDialog ofd = new OpenFileDialog() { Multiselect = true, ValidateNames = true, Filter = "All files|*.*" })
             {
                 if (ofd.ShowDialog() == DialogResult.OK)
                 {
@@ -88,6 +88,9 @@ namespace FTPUpload
                     backgroundWorker.RunWorkerAsync(_inputParameter);
                 }
             }
+
+
+
         }
     }
 }

@@ -23,9 +23,86 @@
   canvas {
     border: 1px solid white;
   }
+
+  /*css button*/
+  button, button:before {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+button {
+	width: 150px;
+	height: 50px;
+	cursor: pointer;
+	font-family: 'Play', sans-serif;
+	font-size: 20px;
+	color: white;
+	border: none;
+	border-radius: 25px;
+	background-image: url("../img/wallper.jpg");
+	background-size: 150%;
+	background-position: left;
+	transition: 1s;
+  position:relative;
+}
+
+button:before {
+	width: 150px;
+	height: 50px;
+	/* content: 'New Game'; */
+	background: rgba(0,0,0,0.6);
+	border-radius: 25px;
+	position: absolute;
+	transition: 500ms;
+}
+
+button:hover:before {
+	background: rgba(0,0,0,0);
+	text-shadow: 1px 1px 1px black;
+}
+
+button:hover {
+	background-position: center;
+	box-shadow: 0px 0px 10px rgba(232, 218, 26, 0.5);
+}
+
+button:focus {
+	outline: none;
+}
+div {
+    position: fixed;
+    left:550px;
+    right:50px;
+    top:420px;
+}
   </style>
 </head>
 <body>
+
+  <div>
+    <button type="submit" onclick="alert2()">New Game</button><br><br><br>
+    
+    <button type="submit" onclick="alert()">Menu</button>
+  
+  </div>
+  <script>
+    //alert Do you want to exit
+    function alert() {
+      var r = confirm("Do you want to exit?");
+      if (r == true) {
+        window.location.href = "../index.html";
+      }
+    }
+
+    //alert Do you want to restart game
+    function alert2() {
+      var r = confirm("Do you want to restart game?");
+      if (r == true) {
+        window.location.href = "xephinh.html";
+      }
+    }
+  </script>
 <canvas width="320" height="640" id="game"></canvas>
 <script>
 // https://tetris.fandom.com/wiki/Tetris_Guideline

@@ -138,7 +138,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnUpload);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Upload FTP";
             this.ResumeLayout(false);
             this.PerformLayout();
 
