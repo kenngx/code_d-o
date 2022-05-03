@@ -12,7 +12,6 @@ namespace Split
             string outputPath = @"H:\Splited";           //Đường dẫn file xuất
             int interval = 2;                            //Số trang muốn split
             int pageNameSuffix = 0;
-
             PdfReader reader = new PdfReader(pdfFilePath);
 
             FileInfo file = new FileInfo(pdfFilePath);
