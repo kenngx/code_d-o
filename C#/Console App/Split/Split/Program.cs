@@ -8,8 +8,8 @@ namespace Split
     {
         static void Main(string[] args)
         {
-            string pdfFilePath = @"H:\27-4-04_0001.pdf"; //đường dẫn tới file gốc
-            string outputPath = @"H:\Splited";           //Đường dẫn file xuất
+            string pdfFilePath = @"C:\Users\Tuan Anh\Desktop\New folder\LISTENING.pdf"; //đường dẫn tới file gốc
+            string outputPath = @"C:\Users\Tuan Anh\Desktop\New folder\Splited";           //Đường dẫn file xuất
             int interval = 2;                            //Số trang muốn split
             int pageNameSuffix = 0;
             PdfReader reader = new PdfReader(pdfFilePath);
@@ -23,19 +23,21 @@ namespace Split
             {
                 pageNameSuffix++;
                 string newPdfFileName = string.Format(pdfFileName + "{0}", pageNameSuffix);
-                obj.SplitAndSaveInterval(pdfFilePath, outputPath, pageNumber, interval, newPdfFileName);
+                obj.Split(pdfFilePath, outputPath, pageNumber, interval, newPdfFileName);
             }
         }
 
-        private void SplitAndSaveInterval(string pdfFilePath, string outputPath, int startPage, int interval, string pdfFileName)
+        private void Split(string pdfFilePath, string outputPath, int startPage, int interval, string pdfFileName)
         {
+
+            int i = 0;
             using (PdfReader reader = new PdfReader(pdfFilePath))
             {
                 Document document = new Document();
                 PdfCopy copy = new PdfCopy(document, new FileStream(outputPath + "\\" + pdfFileName + ".pdf", FileMode.Create));
                 document.Open();
 
-                for (int pagenumber = startPage; pagenumber < (startPage + interval); pagenumber++)
+                for (int pagenumber = i * interval + startPage; pagenumber < (i * interval + startPage + interval); pagenumber++)
                 {
                     if (reader.NumberOfPages >= pagenumber)
                     {
@@ -50,6 +52,7 @@ namespace Split
 
                 document.Close();
             }
+            
         }
     }
 }
