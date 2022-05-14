@@ -1,0 +1,16 @@
+H:\code\Github_Upload_Code\C#\Windows Form Application\Pokemon\UIT_Pokemon\bin\Debug\UIT_Pokemon.exe
+H:\code\Github_Upload_Code\C#\Windows Form Application\Pokemon\UIT_Pokemon\bin\Debug\UIT_Pokemon.pdb
+H:\code\Github_Upload_Code\C#\Windows Form Application\Pokemon\UIT_Pokemon\obj\Debug\UIT_Pokemon.csproj.AssemblyReference.cache
+H:\code\Github_Upload_Code\C#\Windows Form Application\Pokemon\UIT_Pokemon\obj\Debug\UIT_Pokemon.About.resources
+H:\code\Github_Upload_Code\C#\Windows Form Application\Pokemon\UIT_Pokemon\obj\Debug\UIT_Pokemon.Form1.resources
+H:\code\Github_Upload_Code\C#\Windows Form Application\Pokemon\UIT_Pokemon\obj\Debug\UIT_Pokemon.HelpIntroduction.resources
+H:\code\Github_Upload_Code\C#\Windows Form Application\Pokemon\UIT_Pokemon\obj\Debug\UIT_Pokemon.HighScore.resources
+H:\code\Github_Upload_Code\C#\Windows Form Application\Pokemon\UIT_Pokemon\obj\Debug\UIT_Pokemon.InputName.resources
+H:\code\Github_Upload_Code\C#\Windows Form Application\Pokemon\UIT_Pokemon\obj\Debug\UIT_Pokemon.KindGameOption.resources
+H:\code\Github_Upload_Code\C#\Windows Form Application\Pokemon\UIT_Pokemon\obj\Debug\UIT_Pokemon.LevelCharacter.resources
+H:\code\Github_Upload_Code\C#\Windows Form Application\Pokemon\UIT_Pokemon\obj\Debug\UIT_Pokemon.OptionControl.resources
+H:\code\Github_Upload_Code\C#\Windows Form Application\Pokemon\UIT_Pokemon\obj\Debug\UIT_Pokemon.Properties.Resources.resources
+H:\code\Github_Upload_Code\C#\Windows Form Application\Pokemon\UIT_Pokemon\obj\Debug\UIT_Pokemon.csproj.GenerateResource.cache
+H:\code\Github_Upload_Code\C#\Windows Form Application\Pokemon\UIT_Pokemon\obj\Debug\UIT_Pokemon.csproj.CoreCompileInputs.cache
+H:\code\Github_Upload_Code\C#\Windows Form Application\Pokemon\UIT_Pokemon\obj\Debug\UIT_Pokemon.exe
+H:\code\Github_Upload_Code\C#\Windows Form Application\Pokemon\UIT_Pokemon\obj\Debug\UIT_Pokemon.pdb
