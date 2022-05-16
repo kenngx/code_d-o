@@ -1,5 +1,0 @@
-H:\code\Github_Upload_Code\C#\Console App\pdf\pdf\obj\Debug\net6.0\pdf.csproj.AssemblyReference.cache
-H:\code\Github_Upload_Code\C#\Console App\pdf\pdf\obj\Debug\net6.0\pdf.GeneratedMSBuildEditorConfig.editorconfig
-H:\code\Github_Upload_Code\C#\Console App\pdf\pdf\obj\Debug\net6.0\pdf.AssemblyInfoInputs.cache
-H:\code\Github_Upload_Code\C#\Console App\pdf\pdf\obj\Debug\net6.0\pdf.AssemblyInfo.cs
-H:\code\Github_Upload_Code\C#\Console App\pdf\pdf\obj\Debug\net6.0\pdf.csproj.CoreCompileInputs.cache
