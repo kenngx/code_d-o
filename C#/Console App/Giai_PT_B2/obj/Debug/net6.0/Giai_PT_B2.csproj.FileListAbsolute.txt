@@ -1,0 +1,15 @@
+H:\code\Github_Upload_Code\C#\Console App\Giai_PT_B2\bin\Debug\net6.0\Giai_PT_B2.exe
+H:\code\Github_Upload_Code\C#\Console App\Giai_PT_B2\bin\Debug\net6.0\Giai_PT_B2.deps.json
+H:\code\Github_Upload_Code\C#\Console App\Giai_PT_B2\bin\Debug\net6.0\Giai_PT_B2.runtimeconfig.json
+H:\code\Github_Upload_Code\C#\Console App\Giai_PT_B2\bin\Debug\net6.0\Giai_PT_B2.dll
+H:\code\Github_Upload_Code\C#\Console App\Giai_PT_B2\bin\Debug\net6.0\Giai_PT_B2.pdb
+H:\code\Github_Upload_Code\C#\Console App\Giai_PT_B2\obj\Debug\net6.0\Giai_PT_B2.csproj.AssemblyReference.cache
+H:\code\Github_Upload_Code\C#\Console App\Giai_PT_B2\obj\Debug\net6.0\Giai_PT_B2.GeneratedMSBuildEditorConfig.editorconfig
+H:\code\Github_Upload_Code\C#\Console App\Giai_PT_B2\obj\Debug\net6.0\Giai_PT_B2.AssemblyInfoInputs.cache
+H:\code\Github_Upload_Code\C#\Console App\Giai_PT_B2\obj\Debug\net6.0\Giai_PT_B2.AssemblyInfo.cs
+H:\code\Github_Upload_Code\C#\Console App\Giai_PT_B2\obj\Debug\net6.0\Giai_PT_B2.csproj.CoreCompileInputs.cache
+H:\code\Github_Upload_Code\C#\Console App\Giai_PT_B2\obj\Debug\net6.0\Giai_PT_B2.dll
+H:\code\Github_Upload_Code\C#\Console App\Giai_PT_B2\obj\Debug\net6.0\refint\Giai_PT_B2.dll
+H:\code\Github_Upload_Code\C#\Console App\Giai_PT_B2\obj\Debug\net6.0\Giai_PT_B2.pdb
+H:\code\Github_Upload_Code\C#\Console App\Giai_PT_B2\obj\Debug\net6.0\Giai_PT_B2.genruntimeconfig.cache
+H:\code\Github_Upload_Code\C#\Console App\Giai_PT_B2\obj\Debug\net6.0\ref\Giai_PT_B2.dll

@@ -1,0 +1,6 @@
+Bước 1: Tải file về
+Bước 2: Giải nén thư mục
+Bước 3: Mở thư mục với visual studio code
+Bước 4: Mở file program.cs
+Bước 5: Mở terminal trong visual studio code
+Bước 6: Trong cửa số terminal gõ lệnh dotnet run
