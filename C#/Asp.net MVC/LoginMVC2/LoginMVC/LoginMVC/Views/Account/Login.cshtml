@@ -1,0 +1,34 @@
+﻿@model LoginMVC.Models.Account
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="form-group">
+        <label class="control-lable col-lg-1-md-2">UserName</label>
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.UserName, new { HtmlAttribute = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-lable col-lg-1-md-2">Password</label>
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Password, new { HtmlAttribute = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-lg-1-md-10">
+            <input type="submit" value="Login" class="btn btn-success" />
+
+        </div>
+
+    </div>
+}
+
